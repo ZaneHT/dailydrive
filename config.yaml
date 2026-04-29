@@ -40,10 +40,14 @@ podcasts:
   #   episodes: 1
   #   position: first
 
+  - name: "Daily Drive Welcome"
+    id: "4lZVuVRAmTgatQrXHls6q7"
+    episodes: 1
+    position: first # Always plays first, before the mix pattern
+
   - name: "ABC News Top Stories"
     id: "75ruL1B21lO7NXqvgdfn1Q"
     episodes: 1
-    position: first         # Always plays first, before the mix pattern
 
   - name: "ABC News Daily"
     id: "1D4A4NKKF0axPvAS7h31Lu"
