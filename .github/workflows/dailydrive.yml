@@ -30,7 +30,7 @@ jobs:
           cp config.example.yaml config.yaml
           sed -i "s/YOUR_CLIENT_ID/$SPOTIFY_CLIENT_ID/g" config.yaml
           sed -i "s/YOUR_CLIENT_SECRET/$SPOTIFY_CLIENT_SECRET/g" config.yaml
-          sed -i "s/YOUR_PLAYLIST_ID/$SPOTIFY_PLAYLIST_ID/g" config.yaml
+          sed -i "s/your-playlist-id-here/$SPOTIFY_PLAYLIST_ID/g" config.yaml
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
