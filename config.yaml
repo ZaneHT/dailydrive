@@ -143,8 +143,9 @@ mix_pattern: "PMMMM"
 # When to refresh (used by the systemd timer, not the script itself)
 # Twice-daily updates: morning catches overnight podcast drops,
 # evening refreshes for the commute home
-schedule:
-  times:
-    - "07:00"            # Morning
-    - "16:00"            # Evening
-  timezone: "Australia/Sydney"
+# ** NOTE: we use a CRON job which is setup in dailydrive.yml **
+# schedule:
+#  times:
+#    - "07:00"            # Morning
+#    - "16:00"            # Evening
+#  timezone: "Australia/Sydney"
