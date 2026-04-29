@@ -1,0 +1,92 @@
+Here's a clean reference you can save:
+
+---
+
+# Daily Drive — How to Make Changes
+
+## The Basic Workflow
+Any change follows the same 3 steps:
+1. Edit locally on your Mac
+2. Test it works
+3. Push to GitHub (automation picks it up automatically)
+
+---
+
+## Step 1 — Open the project
+```zsh
+cd ~/projects/dailydrive
+code .
+```
+
+---
+
+## Step 2 — Make your changes
+Most changes happen in `config.yaml`:
+- Add/remove podcasts
+- Change mix pattern
+- Change number of songs
+- Add genre discovery
+
+---
+
+## Step 3 — Test locally
+```zsh
+npm start
+```
+Check the output for any ⚠️ errors. If it looks good, check your Spotify playlist.
+
+---
+
+## Step 4 — Push to GitHub
+```zsh
+git add .
+git commit -m "describe what you changed"
+git push
+```
+GitHub Actions will use your new config automatically at the next scheduled run.
+
+---
+
+## Useful Commands
+| Command | What it does |
+|---|---|
+| `npm start` | Build the playlist now |
+| `npm test` | Dry run — shows what would happen without changing anything |
+| `git status` | Shows what files you've changed |
+| `git diff` | Shows exactly what changed line by line |
+
+---
+
+## Adding a New Podcast
+1. Find the podcast in Spotify
+2. Click ··· → Share → Copy link to show
+3. The ID is the part after `/show/` in the URL
+4. Add to `config.yaml` under `podcasts:`:
+```yaml
+  - name: "Podcast Name"
+    id: "show-id-here"
+    episodes: 1
+```
+5. Run `npm start` to test, then push
+
+---
+
+## If the Token Expires
+Spotify tokens occasionally expire after long inactivity. If you see auth errors:
+```zsh
+cd ~/projects/dailydrive
+npm run setup
+```
+Then update the `SPOTIFY_TOKEN_JSON` secret in GitHub with the new contents of `.spotify-token.json`.
+
+---
+
+## Trigger a Manual Run on GitHub
+Go to **github.com/ZaneHT/dailydrive** → **Actions** → **Daily Drive** → **Run workflow**
+
+---
+
+## Automatic Schedule
+Runs automatically at:
+- **7:00am** Sydney time
+- **4:00pm** Sydney time
