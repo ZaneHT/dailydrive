@@ -1,0 +1,44 @@
+name: Daily Drive
+
+on:
+  schedule:
+    - cron: '0 21 * * *'   # 7am AEDT (UTC+10)
+    - cron: '0 6 * * *'    # 4pm AEDT (UTC+10)
+  workflow_dispatch:         # lets you trigger manually from GitHub
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Write Spotify token
+        run: |
+          echo '{
+            "refresh_token": "${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          }' > .spotify-token.json
+
+      - name: Write config
+        run: |
+          cp config.example.yaml config.yaml
+          sed -i "s/YOUR_CLIENT_ID/$SPOTIFY_CLIENT_ID/g" config.yaml
+          sed -i "s/YOUR_CLIENT_SECRET/$SPOTIFY_CLIENT_SECRET/g" config.yaml
+          sed -i "s/YOUR_PLAYLIST_ID/$SPOTIFY_PLAYLIST_ID/g" config.yaml
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_PLAYLIST_ID: ${{ secrets.SPOTIFY_PLAYLIST_ID }}
+
+      - name: Run Daily Drive
+        run: node index.js
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_PLAYLIST_ID: ${{ secrets.SPOTIFY_PLAYLIST_ID }}
