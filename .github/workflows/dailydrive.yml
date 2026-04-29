@@ -2,7 +2,7 @@ name: Daily Drive
 
 on:
   schedule:
-    - cron: '0 20 * * *'   # 6am AEDT (UTC+10)
+    - cron: '0 19 * * *'   # 5am AEDT (UTC+10)
     - cron: '0 6 * * *'    # 4pm AEDT (UTC+10)
   workflow_dispatch:         # lets you trigger manually from GitHub
 
