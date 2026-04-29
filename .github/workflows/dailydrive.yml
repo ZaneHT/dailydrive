@@ -20,10 +20,7 @@ jobs:
         run: npm install
 
       - name: Write Spotify token
-        run: |
-          echo '{
-            "refresh_token": "${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          }' > .spotify-token.json
+        run: echo '${{ secrets.SPOTIFY_TOKEN_JSON }}' > .spotify-token.json    
 
       - name: Write config
         run: |
