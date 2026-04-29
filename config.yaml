@@ -1,0 +1,146 @@
+# =============================================================================
+# Daily Drive Configuration
+# =============================================================================
+# Copy this file to config.yaml and fill in your details:
+#   cp config.example.yaml config.yaml
+#
+# For help getting your Spotify credentials, see README.md
+# =============================================================================
+
+# --- Spotify App Credentials ---
+# Get these from https://developer.spotify.com/dashboard
+# IMPORTANT: Also add your Spotify email in Dashboard > User Management
+spotify:
+  client_id: "your-client-id-here"
+  client_secret: "your-client-secret-here"
+  playlist_id: "your-playlist-id-here"
+  # IMPORTANT: Must use 127.0.0.1, NOT localhost (Spotify removed localhost support Nov 2025)
+  redirect_uri: "http://127.0.0.1:8888/callback"
+
+# --- Your Playlist ---
+# The playlist where Daily Drive content will be placed.
+# Create an empty playlist in Spotify, then right-click > Share > Copy link.
+# The ID is the part after "playlist/" in the URL.
+# Example: https://open.spotify.com/playlist/37i9dQZF1DX... → ID is "37i9dQZF1DX..."
+playlist_id: "7icacVp2EOgZeEuwOvFGW5"
+
+# --- Podcasts ---
+# Add your favorite podcasts here.
+# To find a show ID: open it in Spotify > Share > Copy link
+# Example: https://open.spotify.com/show/6z4NLXyHPga... → ID is "6z4NLXyHPga..."
+#
+# Use position: first to always place a podcast at the start of the playlist
+# (great for news briefings like NPR News Now)
+podcasts:
+  # Optional: Daily welcome greeting for your playlist.
+  # A short "Welcome to Your Daily Drive, it's Monday March 24th..." intro.
+  # You can create your own welcome show (see unscarcity-podcast repo), or skip this.
+  # - name: "Daily Drive Welcome"
+  #   id: "your-welcome-show-id"
+  #   episodes: 1
+  #   position: first
+
+  - name: "ABC News Top Stories"
+    id: "75ruL1B21lO7NXqvgdfn1Q"
+    episodes: 1
+    position: first         # Always plays first, before the mix pattern
+
+  - name: "ABC News Daily"
+    id: "1D4A4NKKF0axPvAS7h31Lu"
+    episodes: 1
+
+  - name: "The News Agents"
+    id: "0zXLdM0YV1ukb8p8WzEG6D"
+    episodes: 1
+
+  - name: "The Global Story (BBC)"
+    id: "5mcWBCBMSCLddYdYOH9Er2"
+    episodes: 1
+
+  - name: "BBC Global News Podcast"
+    id: "3wBfqov60qDZbEVjPHo0a8"
+    episodes: 1
+
+  - name: "The Daily (NYT)"
+    id: "3IM0lmZxpFAY7CwMuv9H4g"
+    episodes: 1
+
+  - name: "Up First (NPR)"
+    id: "7oYAvhGUqJwO6asPGX5qQw"
+    episodes: 1
+
+  - name: "Marketplace Morning Report"
+    id: "1WOja8nmm4IuS9QK6rEyJI"
+    episodes: 1
+
+  - name: "Freakonomics Radio"
+    id: "6z4NLXyHPga1UmSJsPK7G1"
+    episodes: 1
+
+  - name: "The Indicator (NPR)"
+    id: "4X3yDKgVTWRjSd6r0vhgo4"
+    episodes: 1
+
+  - name: "Kinda Funny Games Daily"
+    id: "1hXrn6RoMMAiNGLE8jxKKf"
+    episodes: 1
+
+  - name: "The News Agents USA"
+    id: "7BUOVxdCXnRJ1pc8O3kC70"
+    episodes: 1
+
+# --- Music Sources ---
+# Where to pull songs from. You can mix and match multiple sources.
+# All sources are pooled together, shuffled, and trimmed to total_songs.
+music:
+  # Top tracks — pulls from your most-played songs
+  # Best signal for "songs I actually enjoy and don't skip"
+  top_tracks:
+    enabled: true
+    time_range: "short_term"   # short_term (~4 weeks), medium_term (~6 months), long_term (all time)
+    count: 30                  # fetch pool size (shuffled + trimmed to total_songs)
+
+  # Genre-based music discovery (optional)
+  # Finds fresh tracks by genre via Spotify search
+  # genres:
+  #   - pop
+  #   - edm
+  #   - pop rock
+  #   - indie pop
+  #   - dance pop
+
+  # Pull songs from existing playlists (optional)
+  # Find playlist IDs the same way as your target playlist above
+  # playlists:
+  #   - name: "Your Favorite Playlist"
+  #     id: "your-playlist-id"
+
+  # How many songs to include total
+  # (The original Daily Drive had ~19 songs and ~5 podcast segments)
+  total_songs: 19
+
+  # Shuffle the songs? (true/false)
+  shuffle: true
+
+# --- Mix Pattern ---
+# Controls how podcasts and music are interleaved.
+# P = podcast episode, M = music track
+# The pattern repeats until all content is placed.
+# Pinned episodes (position: first) appear before the pattern starts.
+#
+# Examples:
+#   "PMMM"     → 1 podcast, 3 songs, 1 podcast, 3 songs...
+#   "PMMMM"    → 1 podcast, 4 songs, repeat...
+#   "PMMPMMM"  → 1 podcast, 2 songs, 1 podcast, 3 songs...
+#   "PM"       → alternating podcast and song
+mix_pattern: "PMMMM"
+
+# --- Schedule ---
+# When to refresh (used by the systemd timer, not the script itself)
+# Twice-daily updates: morning catches overnight podcast drops,
+# evening refreshes for the commute home
+schedule:
+  times:
+    - "07:00"            # Morning
+    - "16:00"            # Evening
+  timezone: "Australia/Sydney"

@@ -12,7 +12,7 @@ spotify-token.json
 *token*.json
 
 # User config — contains client_id, client_secret, playlist IDs
-config.yaml
+
 config.yml
 config.local.*
 
