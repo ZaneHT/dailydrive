@@ -1,20 +1,27 @@
 name: Daily Drive
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 19 * * *'   # 5am AEDT (UTC+10)
-    - cron: '0 6 * * *'    # 4pm AEDT (UTC+10)
-  workflow_dispatch:         # lets you trigger manually from GitHub
+    - cron: '0 14 * * *'   # 1am AEST (UTC+10) - Generate intro
+    - cron: '0 19 * * *'   # 5am AEST (UTC+10) - Rebuild playlist
+    - cron: '0 3 * * *'    # 1pm AEST (UTC+10) - Generate intro
+    - cron: '0 6 * * *'    # 4pm AEST (UTC+10) - Rebuild playlist
 
 jobs:
-  run:
+  generate-intro:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 14 * * *' ||
+      github.event.schedule == '0 3 * * *'
     steps:
       - uses: actions/checkout@v4.2.2
+
       - uses: actions/setup-node@v4.4.0
         with:
           node-version: '24'
@@ -23,16 +30,8 @@ jobs:
         run: npm install
 
       - name: Write Spotify token
-        run: echo '${{ secrets.SPOTIFY_TOKEN_JSON }}' > .spotify-token.json    
+        run: echo '${{ secrets.SPOTIFY_TOKEN_JSON }}' > .spotify-token.json
 
-      - name: Write config
-        run: |
-          sed -i "s/your-client-id-here/$SPOTIFY_CLIENT_ID/g" config.yaml
-          sed -i "s/your-client-secret-here/$SPOTIFY_CLIENT_SECRET/g" config.yaml
-        env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-      
       - name: Generate AI Intro
         run: node generate-intro.js
         env:
@@ -44,8 +43,39 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add podcast/intro.mp3 podcast/feed.xml
-          git diff --staged --quiet || git commit -m "Auto-update daily intro $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Auto-update daily intro $(date +%Y-%m-%d-%H%M)"
           git push
+
+  rebuild-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 19 * * *' ||
+      github.event.schedule == '0 6 * * *'
+    steps:
+      - uses: actions/checkout@v4.2.2
+
+      - uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Write Spotify token
+        run: echo '${{ secrets.SPOTIFY_TOKEN_JSON }}' > .spotify-token.json
+
+      - name: Write config
+        run: |
+          sed -i "s/your-client-id-here/$SPOTIFY_CLIENT_ID/g" config.yaml
+          sed -i "s/your-client-secret-here/$SPOTIFY_CLIENT_SECRET/g" config.yaml
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - name: Run Daily Drive
         run: node index.js
