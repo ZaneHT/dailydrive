@@ -6,17 +6,22 @@
     <description>A personalised AI-generated daily intro for Naresh's Daily Drive playlist.</description>
     <language>en-au</language>
     <itunes:author>Naresh Hirani</itunes:author>
+    <itunes:owner>
+      <itunes:name>Naresh Hirani</itunes:name>
+      <itunes:email>mister.naresh.hirani@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://zaneht.github.io/dailydrive/podcast/cover.jpg"/>
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It’s Friday, May 1st, 2026, and welcome to your Daily Driv...</title>
-      <description>Good morning, Sydney! It’s Friday, May 1st, 2026, and welcome to your Daily Drive. The sun is shining, the weekend is practically here, and with only a few days until Mother's Day, it's the perfect time to start planning something special for Mum. Did you know that the first-ever Australian Grand Prix was held in 1928, right here in Camden? Let's power through this last day and make it a great one!</description>
+      <title>Good morning Sydney! It’s Friday, May 1st, 2026, and welcome back to your Daily ...</title>
+      <description>Good morning Sydney! It’s Friday, May 1st, 2026, and welcome back to your Daily Drive. We've got a gorgeous autumn day ahead, perfect for your commute, and a long weekend on the horizon thanks to the Labour Day public holiday on Monday! Did you know that the "Rule of Three" suggests things are more effective in sets of three? So let's make today, Friday, a triple threat of productivity, positivity, and pure joy! Let's get this fantastic long weekend started!</description>
       <enclosure 
         url="https://zaneht.github.io/dailydrive/podcast/intro.mp3" 
         type="audio/mpeg" 
-        length="172608"/>
+        length="186432"/>
       <guid isPermaLink="false">daily-drive-intro-2026-05-01</guid>
-      <pubDate>Fri, 01 May 2026 00:21:15 GMT</pubDate>
+      <pubDate>Fri, 01 May 2026 05:31:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -111,8 +111,8 @@ async function textToSpeech(text) {
 
   const data = await response.json();
   const audioBuffer = Buffer.from(data.audioContent, "base64");
-  fs.writeFileSync("intro.mp3", audioBuffer);
-  console.log("🔊 Audio saved to intro.mp3");
+  fs.writeFileSync("podcast/intro.mp3", audioBuffer);
+  console.log("🔊 Audio saved to podcast/intro.mp3");
 }
 
 async function updateRssFeed(introText) {
@@ -131,6 +131,11 @@ async function updateRssFeed(introText) {
     <description>A personalised AI-generated daily intro for Naresh's Daily Drive playlist.</description>
     <language>en-au</language>
     <itunes:author>Naresh Hirani</itunes:author>
+    <itunes:owner>
+      <itunes:name>Naresh Hirani</itunes:name>
+      <itunes:email>mister.naresh.hirani@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://zaneht.github.io/dailydrive/podcast/cover.jpg"/>
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
