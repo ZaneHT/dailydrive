@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It’s Friday, May 1st, 2026, and a beautiful autumn day awa...</title>
-      <description>Good morning, Sydney! It’s Friday, May 1st, 2026, and a beautiful autumn day awaits us with sunshine and a top of 23 degrees – perfect for that end-of-week feeling. Welcome back to your Daily Drive! Did you know today marks the start of National Volunteer Week here in Australia? A wonderful reminder of the power of giving back. Let's make today count!</description>
+      <title>Good morning, Sydney! It’s Friday, May 1st, 2026, and a gorgeous start to your l...</title>
+      <description>Good morning, Sydney! It’s Friday, May 1st, 2026, and a gorgeous start to your long weekend here on the Daily Drive. We're looking at clear skies and a comfortable 22 degrees as we head into this May Day public holiday, perfect for whatever adventures you have planned! Did you know, May Day has ancient roots celebrating spring and fertility, but in Australia, it aligns with Labour Day in some states – a double reason to enjoy your day off! So, let's hit the road and make it a fantastic Friday!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3" 
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-01T06-20-45-303Z"
         type="audio/mpeg" 
-        length="143040"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-01</guid>
-      <pubDate>Fri, 01 May 2026 06:13:01 GMT</pubDate>
+        length="196416"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-01T06-20-45-303Z</guid>
+      <pubDate>Fri, 01 May 2026 06:20:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
