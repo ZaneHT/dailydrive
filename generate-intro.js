@@ -118,7 +118,7 @@ async function textToSpeech(text) {
 async function updateRssFeed(introText) {
   const now = new Date();
   const pubDate = now.toUTCString();
-  const guid = `daily-drive-intro-${now.toISOString().split("T")[0]}`;
+  const guid = `daily-drive-intro-${now.toISOString().replace(/[:.]/g, "-")}`;
 
   // Get MP3 file size for the enclosure length
   const mp3Size = fs.statSync("podcast/intro.mp3").size;
@@ -142,7 +142,7 @@ async function updateRssFeed(introText) {
       <title>${introText.substring(0, 80)}...</title>
       <description>${introText}</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3" 
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=${guid}"
         type="audio/mpeg" 
         length="${mp3Size}"/>
       <guid isPermaLink="false">${guid}</guid>
