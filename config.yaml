@@ -11,8 +11,7 @@
 # Get these from https://developer.spotify.com/dashboard
 # IMPORTANT: Also add your Spotify email in Dashboard > User Management
 spotify:
-#  client_id: "a170bd9ff84948ffaa0dda51dc89521f"
-#  client_secret: "3bce8d9d5ddf44089f0cea3a53be3547"
+
   client_id: "your-client-id-here"
   client_secret: "your-client-secret-here"
 #  playlist_id: "your-playlist-id-here"
