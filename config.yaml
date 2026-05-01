@@ -11,9 +11,11 @@
 # Get these from https://developer.spotify.com/dashboard
 # IMPORTANT: Also add your Spotify email in Dashboard > User Management
 spotify:
+#  client_id: "a170bd9ff84948ffaa0dda51dc89521f"
+#  client_secret: "3bce8d9d5ddf44089f0cea3a53be3547"
   client_id: "your-client-id-here"
   client_secret: "your-client-secret-here"
-  playlist_id: "your-playlist-id-here"
+#  playlist_id: "your-playlist-id-here"
   # IMPORTANT: Must use 127.0.0.1, NOT localhost (Spotify removed localhost support Nov 2025)
   redirect_uri: "http://127.0.0.1:8888/callback"
 
@@ -44,11 +46,14 @@ podcasts:
   #   id: "4lZVuVRAmTgatQrXHls6q7"
   #   episodes: 1
   #   position: first # Always plays first, before the mix pattern
+  - name: "Naresh's Daily Drive Intro"
+    id: "7djXNGUGD9ivHDYmMwwf9E"
+    episodes: 1
+    position: first # Always plays first, before the mix pattern
 
   - name: "ABC News Top Stories"
     id: "75ruL1B21lO7NXqvgdfn1Q"
     episodes: 1
-    position: first # Always plays first, before the mix pattern
 
   - name: "ABC News Daily"
     id: "1D4A4NKKF0axPvAS7h31Lu"
