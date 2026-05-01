@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Naresh's Daily Drive Intro</title>
+    <link>https://zaneht.github.io/dailydrive/podcast/</link>
+    <description>A personalised AI-generated daily intro for Naresh's Daily Drive playlist.</description>
+    <language>en-au</language>
+    <itunes:author>Naresh Hirani</itunes:author>
+    <itunes:category text="Daily News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Daily Intro</title>
+      <description>Your personalised Daily Drive intro.</description>
+      <enclosure 
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3" 
+        type="audio/mpeg" 
+        length="0"/>
+      <guid isPermaLink="false">daily-drive-intro-placeholder</guid>
+      <pubDate>Thu, 01 May 2026 00:00:00 +1000</pubDate>
+    </item>
+  </channel>
+</rss>
