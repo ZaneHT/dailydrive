@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It’s Friday, May 1st, 2026, and welcome to your Daily Driv...</title>
-      <description>Good morning, Sydney! It’s Friday, May 1st, 2026, and welcome to your Daily Drive. We've got a gorgeous autumn day ahead, perfect for enjoying the last of the sunshine before the weekend, and it's also International Workers' Day globally. Did you know the iconic Sydney Harbour Bridge celebrates its 94th birthday next month? Let's power through this Friday and make it a brilliant start to the long weekend!</description>
+      <title>Good morning, Sydney! Happy Friday, May 1st, 2026, and a huge welcome back to yo...</title>
+      <description>Good morning, Sydney! Happy Friday, May 1st, 2026, and a huge welcome back to your Daily Drive. We're looking at another gorgeous autumn day here, perfect for that morning commute or an early stroll before the weekend kicks in, with local news buzzing about the upcoming festivals. Did you know that today marks the traditional start of winter in the northern hemisphere – quite the contrast to our beautiful Sydney autumn! Here's to a fantastic start to your Friday, let's make it a great one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-01T07-00-45-755Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-01T08-14-49-254Z"
         type="audio/mpeg" 
-        length="160320"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-01T07-00-45-755Z</guid>
-      <pubDate>Fri, 01 May 2026 07:00:45 GMT</pubDate>
+        length="188352"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-01T08-14-49-254Z</guid>
+      <pubDate>Fri, 01 May 2026 08:14:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
