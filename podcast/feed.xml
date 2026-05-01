@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning Sydney! It’s Friday, May 1st, 2026, and welcome back to your Daily ...</title>
-      <description>Good morning Sydney! It’s Friday, May 1st, 2026, and welcome back to your Daily Drive. We've got a gorgeous autumn day ahead, perfect for your commute, and a long weekend on the horizon thanks to the Labour Day public holiday on Monday! Did you know that the "Rule of Three" suggests things are more effective in sets of three? So let's make today, Friday, a triple threat of productivity, positivity, and pure joy! Let's get this fantastic long weekend started!</description>
+      <title>Good morning, Sydney, and a very happy Friday, May 1st, 2026! Welcome back to yo...</title>
+      <description>Good morning, Sydney, and a very happy Friday, May 1st, 2026! Welcome back to your Daily Drive, ready to power you through this beautiful autumn day. We're looking at a lovely 22 degrees and sunny today, perfect for enjoying the start of a long weekend for some, and remember, it's also International Workers' Day globally. Did you know that the "Mayday" distress signal actually comes from the French "m'aider," meaning "help me"? Have a fantastic day, and let's get moving!</description>
       <enclosure 
         url="https://zaneht.github.io/dailydrive/podcast/intro.mp3" 
         type="audio/mpeg" 
-        length="186432"/>
+        length="190272"/>
       <guid isPermaLink="false">daily-drive-intro-2026-05-01</guid>
-      <pubDate>Fri, 01 May 2026 05:31:01 GMT</pubDate>
+      <pubDate>Fri, 01 May 2026 06:06:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
