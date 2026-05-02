@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It’s Saturday, May 2nd, 2026, and a beautiful autumn day i...</title>
-      <description>Good morning, Sydney! It’s Saturday, May 2nd, 2026, and a beautiful autumn day is shaping up as we welcome you to the Daily Drive. The sun's shining, temperatures are perfect for getting out and about, and with no major events today, it's a fantastic opportunity to unwind or catch up with loved ones. Did you know that today marks the anniversary of Leonardo da Vinci's death in 1519? So, let's channel a little creative genius into our weekend – have a brilliant day, everyone!</description>
+      <title>Good morning, Sydney! It’s Saturday, May 2nd, 2026, and a huge welcome to your D...</title>
+      <description>Good morning, Sydney! It’s Saturday, May 2nd, 2026, and a huge welcome to your Daily Drive. We're looking at a beautiful day shaping up, perfect for getting out and enjoying our gorgeous city, with no major headlines to worry about, just good vibes. Did you know the iconic Sydney Harbour Bridge officially opened on this very day back in 1932? So, let’s get those engines revving and make today another fantastic one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-01T21-19-33-396Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-02T05-30-02-965Z"
         type="audio/mpeg" 
-        length="194304"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-01T21-19-33-396Z</guid>
-      <pubDate>Fri, 01 May 2026 21:19:33 GMT</pubDate>
+        length="172032"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-02T05-30-02-965Z</guid>
+      <pubDate>Sat, 02 May 2026 05:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
