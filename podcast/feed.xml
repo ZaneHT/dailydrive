@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It's a beautiful Sunday, May 3rd, 2026, and a big welcome ...</title>
-      <description>Good morning, Sydney! It's a beautiful Sunday, May 3rd, 2026, and a big welcome to your Daily Drive. The sun's shining, promising a lovely, mild day perfect for a leisurely brunch or a coastal walk, and no major headlines to distract from your chill Sunday vibes. Remember, even the longest journey starts with a single step, so let's make that step a great one today! Have a fantastic drive and a wonderful Sunday.</description>
+      <title>Good morning, Naresh, and a very happy Monday, May 4th, 2026, from sunny Sydney!...</title>
+      <description>Good morning, Naresh, and a very happy Monday, May 4th, 2026, from sunny Sydney! Welcome back to your Daily Drive – I hope you had a fantastic weekend. We’re looking at a glorious autumn day today, mostly sunny with a top of 23, perfect for getting out and about, especially as it's a regular workday here in Australia. Did you know that May 4th is Star Wars Day? "May the Fourth be with you!" So let's harness that force, Naresh, and power through this Monday with a fantastic playlist and an even better attitude!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-03T05-51-25-551Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-03T14-40-56-024Z"
         type="audio/mpeg" 
-        length="169536"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-03T05-51-25-551Z</guid>
-      <pubDate>Sun, 03 May 2026 05:51:25 GMT</pubDate>
+        length="206400"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-03T14-40-56-024Z</guid>
+      <pubDate>Sun, 03 May 2026 14:40:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
