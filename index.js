@@ -149,12 +149,31 @@ async function fetchPodcastEpisodes(spotifyApi, podcasts) {
       });
 
       for (const episode of data.body.items) {
+         if (!episode) continue;
+        // Check frequency — skip stale episodes based on podcast.frequency setting
+        // daily = must be within 2 days, weekly = within 8 days, monthly = within 35 days
+        if (podcast.frequency) {
+          const releaseDate = episode.release_date ? new Date(episode.release_date) : null;
+          if (releaseDate) {
+            const daysSinceRelease = (Date.now() - releaseDate) / (1000 * 60 * 60 * 24);
+            const maxAge = podcast.frequency === "daily" ? 2
+                         : podcast.frequency === "weekly" ? 8
+                         : podcast.frequency === "monthly" ? 35
+                         : Infinity;
+
+            if (daysSinceRelease > maxAge) {
+              console.log(`    ⏭️  Skipping stale episode (${Math.floor(daysSinceRelease)}d old): ${episode.name}`);
+              continue;
+            }
+          }
+        }
+
         episodes.push({
-          uri: episode.uri,      // Spotify URI like "spotify:episode:abc123"
+          uri: episode.uri,
           name: episode.name,
           show: podcast.name,
           type: "episode",
-          position: podcast.position || null, // "first" = pinned to top of playlist
+          position: podcast.position || null,
         });
         console.log(`    📌 ${episode.name}`);
       }

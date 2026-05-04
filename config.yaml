@@ -14,6 +14,8 @@ spotify:
 
   client_id: "your-client-id-here"
   client_secret: "your-client-secret-here"
+
+
 #  playlist_id: "your-playlist-id-here"
   # IMPORTANT: Must use 127.0.0.1, NOT localhost (Spotify removed localhost support Nov 2025)
   redirect_uri: "http://127.0.0.1:8888/callback"
@@ -41,62 +43,131 @@ podcasts:
   #   episodes: 1
   #   position: first
 
-  # - name: "Daily Drive Welcome"
+  # - name: "Daily Drive Welcome (Patrick's)"
   #   id: "4lZVuVRAmTgatQrXHls6q7"
   #   episodes: 1
-  #   position: first # Always plays first, before the mix pattern
+  #   position: first
+
+  # --- YOUR AI GENERATED INTRO ---
   - name: "Naresh's Daily Drive Intro"
     id: "7djXNGUGD9ivHDYmMwwf9E"
     episodes: 1
-    position: first # Always plays first, before the mix pattern
+    position: first           # Always plays first
 
+  # --- AUSTRALIAN NEWS ---
   - name: "ABC News Top Stories"
     id: "75ruL1B21lO7NXqvgdfn1Q"
     episodes: 1
+    position: first           # Plays second (pinned)
+    frequency: daily
 
   - name: "ABC News Daily"
     id: "1D4A4NKKF0axPvAS7h31Lu"
     episodes: 1
+    frequency: daily
 
-  - name: "The News Agents"
-    id: "0zXLdM0YV1ukb8p8WzEG6D"
+  # --- VIDEO GAMING ---
+  - name: "Kinda Funny Games Daily"
+    id: "1hXrn6RoMMAiNGLE8jxKKf"
     episodes: 1
+    frequency: daily
+
+  - name: "Kinda Funny Gamescast"
+    id: "6IjISdpbQ3SLxe7RQfdq2t"
+    episodes: 1
+    frequency: weekly
+
+  # --- INTERNATIONAL NEWS ---
+  - name: "BBC Global News Podcast"
+    id: "3wBfqov60qDZbEVjPHo0a8"
+    episodes: 1
+    frequency: daily
 
   - name: "The Global Story (BBC)"
     id: "5mcWBCBMSCLddYdYOH9Er2"
     episodes: 1
+    frequency: daily
 
-  - name: "BBC Global News Podcast"
-    id: "3wBfqov60qDZbEVjPHo0a8"
+  - name: "The News Agents"
+    id: "0zXLdM0YV1ukb8p8WzEG6D"
     episodes: 1
-
-  - name: "The Daily (NYT)"
-    id: "3IM0lmZxpFAY7CwMuv9H4g"
-    episodes: 1
-
-  - name: "Up First (NPR)"
-    id: "7oYAvhGUqJwO6asPGX5qQw"
-    episodes: 1
-
-  - name: "Marketplace Morning Report"
-    id: "1WOja8nmm4IuS9QK6rEyJI"
-    episodes: 1
-
-  - name: "Freakonomics Radio"
-    id: "6z4NLXyHPga1UmSJsPK7G1"
-    episodes: 1
-
-  - name: "The Indicator (NPR)"
-    id: "4X3yDKgVTWRjSd6r0vhgo4"
-    episodes: 1
-
-  - name: "Kinda Funny Games Daily"
-    id: "1hXrn6RoMMAiNGLE8jxKKf"
-    episodes: 1
+    frequency: daily
 
   - name: "The News Agents USA"
     id: "7BUOVxdCXnRJ1pc8O3kC70"
     episodes: 1
+    frequency: weekly
+
+  # --- NORTH AMERICA NEWS ---
+  - name: "The Daily (NYT)"
+    id: "3IM0lmZxpFAY7CwMuv9H4g"
+    episodes: 1
+    frequency: daily
+
+  - name: "Up First (NPR)"
+    id: "7oYAvhGUqJwO6asPGX5qQw"
+    episodes: 1
+    frequency: daily
+
+  # --- BUSINESS & ECONOMICS ---
+  - name: "Marketplace Morning Report"
+    id: "1WOja8nmm4IuS9QK6rEyJI"
+    episodes: 1
+    frequency: daily
+
+  - name: "The Indicator (NPR)"
+    id: "4X3yDKgVTWRjSd6r0vhgo4"
+    episodes: 1
+    frequency: daily
+
+  - name: "Freakonomics Radio"
+    id: "6z4NLXyHPga1UmSJsPK7G1"
+    episodes: 1
+    frequency: weekly
+
+  - name: "My First Million"
+    id: "3mliji9352UAk3XnWElnDV"
+    episodes: 1
+    frequency: weekly
+
+  - name: "All-In Podcast"
+    id: "2IqXAVFR4e0Bmyjsdc8QzF"
+    episodes: 1
+    frequency: weekly
+
+  - name: "Acquired"
+    id: "7Fj0XEuUQLUqoMZQdsLXqp"
+    episodes: 1
+    frequency: monthly
+
+  # --- AI & TECH ---
+  - name: "The AI Daily Brief"
+    id: "7gKwwMLFLc6RmjmRpbMtEO"
+    episodes: 1
+    frequency: daily
+
+  - name: "Hard Fork (NYT)"
+    id: "44fllCS2FTFr2x2kjP9xeT"
+    episodes: 1
+    frequency: weekly
+
+  # --- LEADERSHIP & PERSONAL DEVELOPMENT ---
+  - name: "How I Built This"
+    id: "6E709HRH7XaiZrMfgtNCun"
+    episodes: 1
+    frequency: weekly
+
+  - name: "Masters of Scale"
+    id: "1bJRgaFZHuzifad4IAApFR"
+    episodes: 1
+    frequency: weekly
+
+  - name: "Huberman Lab"
+    id: "79CkJF3UJTHFV8Dse3Oy0P"
+    episodes: 1
+    frequency: weekly
+
+  
 
 # --- Music Sources ---
 # Where to pull songs from. You can mix and match multiple sources.
