@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It’s Saturday, May 2nd, 2026, and a beautiful autumn day i...</title>
-      <description>Good morning, Sydney! It’s Saturday, May 2nd, 2026, and a beautiful autumn day is shaping up as we welcome you to the Daily Drive. The sun's shining, temperatures are perfect for getting out and about, and with no major events today, it's a fantastic opportunity to unwind or catch up with loved ones. Did you know that today marks the anniversary of Leonardo da Vinci's death in 1519? So, let's channel a little creative genius into our weekend – have a brilliant day, everyone!</description>
+      <title>Good morning, Naresh! It's Monday, May 4th, 2026, and a beautiful autumn day her...</title>
+      <description>Good morning, Naresh! It's Monday, May 4th, 2026, and a beautiful autumn day here in Sydney as we kick off another week with your Daily Drive. We're looking at a sunny 23 degrees, perfect for enjoying a coffee on your commute, and a quick check shows no major disruptions on the roads or rails this morning. Did you know that today marks the anniversary of the first successful human-powered flight in Australia back in 1974? May your week take off just as smoothly – let's make it a great one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-01T21-19-33-396Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-04T05-56-59-710Z"
         type="audio/mpeg" 
-        length="194304"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-01T21-19-33-396Z</guid>
-      <pubDate>Fri, 01 May 2026 21:19:33 GMT</pubDate>
+        length="193536"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-04T05-56-59-710Z</guid>
+      <pubDate>Mon, 04 May 2026 05:56:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
