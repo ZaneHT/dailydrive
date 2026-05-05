@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It's Tuesday, May 5th, 2026, and a beautiful autumn day is...</title>
-      <description>Good morning, Sydney! It's Tuesday, May 5th, 2026, and a beautiful autumn day is shaping up as I welcome you to your Daily Drive. Expect sunshine and a mild 20 degrees, perfect for getting out and about, and don't forget it's International Midwives' Day, so a huge shout out to all those incredible healthcare heroes! Did you know that the average person will spend about six months of their life waiting for red lights to change? So let's make the most of today, wherever you're headed – stay safe, stay inspired, and have a fantastic day!</description>
+      <title>Good afternoon, Naresh! It's Tuesday, May 5th, 2026, here in Sydney, and what a ...</title>
+      <description>Good afternoon, Naresh! It's Tuesday, May 5th, 2026, here in Sydney, and what a lovely 22 degrees we're enjoying with those clear skies. As your day winds down, let's set the perfect vibe for that commute home, though with a 75% chance of rain later, it's definitely worth grabbing that umbrella! Remember, as the ancient philosopher Lao Tzu said, "A journey of a thousand miles begins with a single step" – so take that step home safely, enjoy a wonderful evening, and we'll catch you back here tomorrow for more Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-04T15-54-37-343Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-05T05-17-55-812Z"
         type="audio/mpeg" 
-        length="210048"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-04T15-54-37-343Z</guid>
-      <pubDate>Mon, 04 May 2026 15:54:37 GMT</pubDate>
+        length="208896"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-05T05-17-55-812Z</guid>
+      <pubDate>Tue, 05 May 2026 05:17:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
