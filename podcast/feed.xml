@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Tuesday, May 5th, 2026, here in Sydney, and what a ...</title>
-      <description>Good afternoon, Naresh! It's Tuesday, May 5th, 2026, here in Sydney, and what a lovely 22°C it is with clear skies right now. As your day winds down, get ready for a bit of a damp commute home as there's a 75% chance of rain, so definitely grab that umbrella before you head out! As you finish up strong today, remember this: "The best way to predict the future is to create it." Have a wonderful, safe drive home, enjoy your evening, and we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh! It's Wednesday, May 6th, 2026, here in Sydney, and at 13°C...</title>
+      <description>Good morning, Naresh! It's Wednesday, May 6th, 2026, here in Sydney, and at 13°C under mainly clear skies, it's a fresh start to what promises to be a fantastic day. With temperatures climbing to a comfortable 21°C, remember that while the morning is bright, there's a 55% chance of rain later, so definitely grab that umbrella before you head out! As you dive into your day, remember that every new morning brings with it a fresh set of opportunities, a clean slate to create something amazing. Make today count, embrace the possibilities, and have a truly wonderful day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-05T05-35-47-400Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-05T15-28-53-290Z"
         type="audio/mpeg" 
-        length="203328"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-05T05-35-47-400Z</guid>
-      <pubDate>Tue, 05 May 2026 05:35:47 GMT</pubDate>
+        length="238080"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-05T15-28-53-290Z</guid>
+      <pubDate>Tue, 05 May 2026 15:28:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
