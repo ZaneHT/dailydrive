@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Wednesday, May 6th, 2026 here in Sydney, and at a c...</title>
-      <description>Good afternoon, Naresh! It's Wednesday, May 6th, 2026 here in Sydney, and at a comfortable 19°C with just a light drizzle, it’s feeling pretty mellow as the day winds down. Hopefully, you've had a productive day, and now it's time to ease into a fantastic evening, perhaps with your favourite tunes guiding you home. Remember, even a small step forward is progress, so give yourself credit for what you’ve accomplished today. Drive safe on those NSW roads, enjoy your evening, get some good rest, and we'll catch up tomorrow!</description>
+      <title>Good morning, Naresh, and happy Thursday, May 7th, 2026, from a beautiful, clear...</title>
+      <description>Good morning, Naresh, and happy Thursday, May 7th, 2026, from a beautiful, clear-skied Sydney where it's currently a crisp 13°C. Get ready for a perfectly dry day ahead, with temperatures reaching a mild 16°C and just a gentle 12 km/h breeze, making it ideal for whatever your day holds. Remember, every new day is a blank canvas, so grab your brush and paint something magnificent today! Have an absolutely fantastic day, Naresh, make it count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-06T05-50-31-494Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-06T15-57-24-581Z"
         type="audio/mpeg" 
-        length="212160"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-06T05-50-31-494Z</guid>
-      <pubDate>Wed, 06 May 2026 05:50:31 GMT</pubDate>
+        length="204480"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-06T15-57-24-581Z</guid>
+      <pubDate>Wed, 06 May 2026 15:57:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
