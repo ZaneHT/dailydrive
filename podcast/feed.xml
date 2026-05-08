@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! Happy Friday, 8th of May 2026, and what a crisp start we h...</title>
-      <description>Good morning, Sydney! Happy Friday, 8th of May 2026, and what a crisp start we have with clear skies and a cool 10 degrees currently feeling more like five. Today's looking like a beauty, climbing to a pleasant 19 degrees with no rain in sight, so you can leave that umbrella at home as you head out the door. Remember, every day is a fresh opportunity to learn something new, so why not make today the day you discover a hidden gem in your own city? Go on, make today count and have an absolutely fantastic Friday!</description>
+      <title>Good afternoon, Naresh! It's Friday, May 8th, 2026, here in Sydney, and what a l...</title>
+      <description>Good afternoon, Naresh! It's Friday, May 8th, 2026, here in Sydney, and what a lovely, clear afternoon we have with a comfortable 18°C currently. As the week winds down, I hope you're feeling a sense of accomplishment and ready to ease into a fantastic evening. Remember, "The best way to predict the future is to create it," so here's to a wonderful evening ahead, a safe commute home with those 22 km/h winds not causing any trouble, and a restful night so you can create an amazing tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-07T15-58-37-443Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-08T05-24-26-259Z"
         type="audio/mpeg" 
-        length="204672"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-07T15-58-37-443Z</guid>
-      <pubDate>Thu, 07 May 2026 15:58:37 GMT</pubDate>
+        length="201408"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-08T05-24-26-259Z</guid>
+      <pubDate>Fri, 08 May 2026 05:24:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
