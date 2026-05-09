@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! Happy Saturday, May 9th, 2026, here in Sydney. We've got...</title>
-      <description>Good afternoon, Naresh! Happy Saturday, May 9th, 2026, here in Sydney. We've got a lovely, clear 19 degrees C with a light breeze right now, feeling like a comfortable 17 degrees out there. What a fantastic end to the week it's been, and with no rain in sight, it's looking like a perfect evening to unwind and recharge. Remember, as you head home, the longest journey begins with a single step, so take it easy and enjoy the ride. Have a wonderful evening, get some great rest, and I'll catch you tomorrow!</description>
+      <title>Good morning, Naresh, and happy Sunday, May 10th, 2026! It's a crisp and clear s...</title>
+      <description>Good morning, Naresh, and happy Sunday, May 10th, 2026! It's a crisp and clear start to your day here in Sydney, currently sitting at a cool 13 degrees Celsius. Ahead lies a beautiful autumn day with temperatures climbing to a delightful 22, so whether you're relaxing or out and about, make the most of this stunning weather. Remember, a Sunday well spent brings a week of content – so fill your day with joy and make it count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-09T05-41-51-973Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-09T14-42-20-190Z"
         type="audio/mpeg" 
-        length="209664"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-09T05-41-51-973Z</guid>
-      <pubDate>Sat, 09 May 2026 05:41:51 GMT</pubDate>
+        length="175680"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-09T14-42-20-190Z</guid>
+      <pubDate>Sat, 09 May 2026 14:42:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
