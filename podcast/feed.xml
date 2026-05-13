@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and welcome to your Daily Drive on this Wednesday, May 1...</title>
-      <description>Good afternoon, Naresh, and welcome to your Daily Drive on this Wednesday, May 13th, 2026, here in Sydney! It's currently feeling a bit brisk at 16°C with some light rain falling, so make sure you've got that umbrella handy as you head out. As the day winds down and the rain continues, let's look forward to a cozy evening ahead, perhaps with a warm cuppa and some good company, knowing you’ve tackled another day head-on. Did you know that the average person will spend around six months of their life waiting for red lights to turn green? Here's to hoping your commute is swift and smooth tonight, Naresh – drive safely, have a wonderful evening unwinding, and we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Thursday, May 14th, 2026! It's a slightly damp s...</title>
+      <description>Good morning, Naresh, and happy Thursday, May 14th, 2026! It's a slightly damp start here in Sydney with a light drizzle and 15 degrees feeling like a comfortable 16, but don't let that dampen your spirits—today is all about making it count. Remember, as author C.S. Lewis once said, "You are never too old to set another goal or to dream a new dream." So, grab that umbrella, chase your dreams, and make today absolutely fantastic!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-13T06-20-22-517Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-13T16-13-46-573Z"
         type="audio/mpeg" 
-        length="265536"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-13T06-20-22-517Z</guid>
-      <pubDate>Wed, 13 May 2026 06:20:22 GMT</pubDate>
+        length="183744"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-13T16-13-46-573Z</guid>
+      <pubDate>Wed, 13 May 2026 16:13:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
