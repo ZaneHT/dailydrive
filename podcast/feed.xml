@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Thursday, May 14th, 2026! It's a slightly damp s...</title>
-      <description>Good morning, Naresh, and happy Thursday, May 14th, 2026! It's a slightly damp start here in Sydney with a light drizzle and 15 degrees feeling like a comfortable 16, but don't let that dampen your spirits—today is all about making it count. Remember, as author C.S. Lewis once said, "You are never too old to set another goal or to dream a new dream." So, grab that umbrella, chase your dreams, and make today absolutely fantastic!</description>
+      <title>Good morning, Naresh, and happy Friday, May 15th, 2026! It’s a mainly clear star...</title>
+      <description>Good morning, Naresh, and happy Friday, May 15th, 2026! It’s a mainly clear start to your day here in Sydney, currently sitting at a crisp 15°C, feeling exactly as it is. While the temperature is set to climb to a mild 19°C, there’s an 84% chance of rain, so definitely grab that brolly before you head out! As you dive into your Daily Drive, remember that every new day is a blank canvas, full of possibilities waiting for your unique brushstrokes. Here's to making today count and having an absolutely brilliant day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-13T16-13-46-573Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-14T16-04-31-700Z"
         type="audio/mpeg" 
-        length="183744"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-13T16-13-46-573Z</guid>
-      <pubDate>Wed, 13 May 2026 16:13:46 GMT</pubDate>
+        length="224256"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-14T16-04-31-700Z</guid>
+      <pubDate>Thu, 14 May 2026 16:04:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
