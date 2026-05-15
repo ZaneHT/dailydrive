@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Friday, May 15th, 2026! It’s a mainly clear star...</title>
-      <description>Good morning, Naresh, and happy Friday, May 15th, 2026! It’s a mainly clear start to your day here in Sydney, currently sitting at a crisp 15°C, feeling exactly as it is. While the temperature is set to climb to a mild 19°C, there’s an 84% chance of rain, so definitely grab that brolly before you head out! As you dive into your Daily Drive, remember that every new day is a blank canvas, full of possibilities waiting for your unique brushstrokes. Here's to making today count and having an absolutely brilliant day!</description>
+      <title>Good afternoon, Naresh! It's Friday, May 15th, 2026, here in Sydney, and what a ...</title>
+      <description>Good afternoon, Naresh! It's Friday, May 15th, 2026, here in Sydney, and what a lovely clear afternoon it is at a comfortable 19°C. As we wind down this work week, let's look forward to a fantastic evening ahead, even if there's a 69% chance of some rain later, so definitely grab that umbrella for the commute! Remember, a smooth sea never made a skilled sailor, so let's navigate this evening with grace and ease. Drive safe, enjoy your well-deserved evening, and recharge – we'll catch up tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-14T16-04-31-700Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-15T06-26-41-934Z"
         type="audio/mpeg" 
-        length="224256"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-14T16-04-31-700Z</guid>
-      <pubDate>Thu, 14 May 2026 16:04:31 GMT</pubDate>
+        length="213312"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-15T06-26-41-934Z</guid>
+      <pubDate>Fri, 15 May 2026 06:26:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
