@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and welcome to your Daily Drive on this Sunday, May 17th...</title>
-      <description>Good afternoon, Naresh, and welcome to your Daily Drive on this Sunday, May 17th, 2026, here in Sydney, where it’s currently a mild 19°C with a light drizzle falling. As the day gently unwinds, let's look forward to a cozy evening ahead, perhaps with a warm cuppa or a good book, before the new week kicks in. Remember, "The only way to do great work is to love what you do," so find something you love and embrace it this evening. Drive safely home if you're out and about, especially with that 77% chance of rain still lingering; grab that umbrella, enjoy your evening, recharge, and we’ll catch you back here tomorrow.</description>
+      <title>Good morning, Naresh, and welcome to your Monday, May 18th, 2026 Daily Drive! It...</title>
+      <description>Good morning, Naresh, and welcome to your Monday, May 18th, 2026 Daily Drive! It's a rather overcast start here in Sydney, currently sitting at a mild 16°C, but don't let that dampen your spirits – today is a fresh canvas to create something wonderful. As you head out, remember that even the longest journey begins with a single step, and since there's a 94% chance of rain, definitely grab that umbrella before you leave! Let’s make today count and fill it with great moments; have a truly fantastic day, Naresh!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-17T06-15-35-981Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-17T14-48-49-802Z"
         type="audio/mpeg" 
-        length="250560"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-17T06-15-35-981Z</guid>
-      <pubDate>Sun, 17 May 2026 06:15:35 GMT</pubDate>
+        length="214464"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-17T14-48-49-802Z</guid>
+      <pubDate>Sun, 17 May 2026 14:48:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
