@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and welcome to your Daily Drive this Tuesday, 19th May 2...</title>
-      <description>Good afternoon, Naresh, and welcome to your Daily Drive this Tuesday, 19th May 2026. It’s a rather overcast 17°C out there right now, feeling a little warmer at 18°C as we start winding down the workday. What a great chance to reflect on the day and look forward to a relaxing evening ahead, but with a 100% chance of rain for your commute home, definitely grab that umbrella before you head out! So, as you hit the road, remember this thought from Lao Tzu: "A journey of a thousand miles begins with a single step." Drive safely, enjoy a wonderful evening recharging, and we'll catch up right back here tomorrow.</description>
+      <title>Good morning, Naresh, and happy Wednesday, May 20th, 2026! It's a crisp 13°C out...</title>
+      <description>Good morning, Naresh, and happy Wednesday, May 20th, 2026! It's a crisp 13°C out there right now under clear Sydney skies, feeling a touch cooler at 11°C, perfect for a fresh start. Today promises a beautiful, dry day with temperatures reaching a pleasant 18°C, so let's soak up that sunshine and make the most of every moment. Remember, a journey of a thousand miles begins with a single step, so let's step into this day with purpose and make it truly count! Have a brilliant one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-19T06-42-46-486Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-19T16-44-31-959Z"
         type="audio/mpeg" 
-        length="257472"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-19T06-42-46-486Z</guid>
-      <pubDate>Tue, 19 May 2026 06:42:46 GMT</pubDate>
+        length="213120"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-19T16-44-31-959Z</guid>
+      <pubDate>Tue, 19 May 2026 16:44:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
