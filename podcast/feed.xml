@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Saturday, May 23rd, 2026, here in Sydney, and with ...</title>
-      <description>Good afternoon, Naresh! It's Saturday, May 23rd, 2026, here in Sydney, and with a comfortable 18°C and a light drizzle gracing us, it definitely feels like a perfect afternoon to start winding down. As the day slowly gives way to evening, let's look forward to a relaxing night ahead, maybe some comfort food and a good book, after you finish up whatever you're doing. Remember, even on a drizzly day, a smile is like a tiny umbrella, keeping your spirits bright. So, stay safe on your travels home, enjoy your fantastic evening, and I'll catch you right back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Sunday, May 24th, 2026, here in Sydney! It's a p...</title>
+      <description>Good morning, Naresh, and happy Sunday, May 24th, 2026, here in Sydney! It's a partly cloudy 17°C out there right now, feeling just as mild, and we're looking at a comfortable range of 14°C to 20°C today. As you head out, remember that 86% chance of rain – best to grab that umbrella! Make today count, embrace the fresh start, and enjoy every moment of your Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-23T06-08-14-093Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-23T14-53-16-049Z"
         type="audio/mpeg" 
-        length="234816"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-23T06-08-14-093Z</guid>
-      <pubDate>Sat, 23 May 2026 06:08:14 GMT</pubDate>
+        length="181632"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-23T14-53-16-049Z</guid>
+      <pubDate>Sat, 23 May 2026 14:53:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
