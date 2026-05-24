@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Sunday, May 24th, 2026, here in Sydney, and we're l...</title>
-      <description>Good afternoon, Naresh! It's Sunday, May 24th, 2026, here in Sydney, and we're looking at a mild 18°C under overcast skies as we wind down the day. Hopefully, you've had a wonderfully relaxing weekend, and as we look ahead to this evening, it's the perfect time to grab a cuppa, put your feet up, and recharge. Here's a thought for your evening: the shortest day of the year in the Southern Hemisphere is coming up in just a few weeks, meaning our days are still getting shorter – so let's soak up every bit of daylight we can! Drive safely if you're heading home, have a fantastic evening, and we'll catch you back here bright and early for tomorrow's Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Monday, May 25th, 2026! It's currently a mild 16...</title>
+      <description>Good morning, Naresh, and happy Monday, May 25th, 2026! It's currently a mild 16°C with a light drizzle kissing Sydney this morning, but it feels a touch warmer at 18°C as we greet the new week. Today, let's remember that every sunrise brings a chance to be the architect of our own joy; as the day unfolds towards a top of 21°C, and with a 79% chance of more rain, grab that umbrella before you head out! Make today count, embrace the opportunities, and have an absolutely fantastic day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-24T06-30-36-180Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-24T14-54-55-147Z"
         type="audio/mpeg" 
-        length="254016"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-24T06-30-36-180Z</guid>
-      <pubDate>Sun, 24 May 2026 06:30:36 GMT</pubDate>
+        length="221760"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-24T14-54-55-147Z</guid>
+      <pubDate>Sun, 24 May 2026 14:54:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
