@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, May 26th,...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, May 26th, 2026! It's a mild 15°C and overcast out there right now, but feels more like 17°C, so a gentle start to the day. Today, let's remember that every day is a fresh opportunity to learn and grow, like a new chapter waiting to be written. So go out there, make the most of it, and don't forget to grab that umbrella before you head out – there's a 100% chance of rain today – have a truly fantastic day!</description>
+      <title>Good afternoon, Naresh! It's Tuesday, May 26th, 2026, here in Sydney, and we're ...</title>
+      <description>Good afternoon, Naresh! It's Tuesday, May 26th, 2026, here in Sydney, and we're looking at an overcast 18 degrees Celsius, though it feels a lovely 20. As you start winding down your day, I hope it’s been productive and you're ready to switch gears for a relaxing evening, remembering that with a 100% chance of rain for your commute home, definitely grab that umbrella! Speaking of winding down, did you know that the word "podcast" itself is a portmanteau of "iPod" and "broadcast," first coined by Ben Hammersley in 2004? So, settle in, enjoy the tunes, have a wonderful evening ahead, drive safe, and we'll catch you back here tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-25T16-14-48-806Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-26T06-40-34-690Z"
         type="audio/mpeg" 
-        length="207744"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-25T16-14-48-806Z</guid>
-      <pubDate>Mon, 25 May 2026 16:14:48 GMT</pubDate>
+        length="265728"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-26T06-40-34-690Z</guid>
+      <pubDate>Tue, 26 May 2026 06:40:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
