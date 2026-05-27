@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Wednesday, May 27th, 2026, here in Sydney, and we'r...</title>
-      <description>Good afternoon, Naresh! It's Wednesday, May 27th, 2026, here in Sydney, and we're looking at an overcast 19 degrees C right now, feeling a lovely 21. As you start winding down from your day, let's look forward to a relaxing evening, maybe a nice warm dinner and some time to recharge. Remember, "The only way to do great work is to love what you do," so let's finish strong, have a safe commute home – and yes, with a 97% chance of rain, definitely grab that umbrella! Enjoy your evening, rest well, and I'll catch you back here tomorrow.</description>
+      <title>Good morning, Naresh, and happy Thursday, May 28th, 2026! It's a mild 17 degrees...</title>
+      <description>Good morning, Naresh, and happy Thursday, May 28th, 2026! It's a mild 17 degrees out there right now, feeling a little warmer at 19, with a light drizzle already gracing our Sydney morning. Today's all about making the most of every moment, and since there's a 100% chance of rain with temperatures staying between 17 and 19 degrees, remember to grab that umbrella before you head out! As the Roman philosopher Seneca once said, "Every new beginning comes from some other beginning's end," so let's embrace this new day with a positive spirit and make it truly count.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-27T06-57-47-382Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-27T16-57-07-558Z"
         type="audio/mpeg" 
-        length="226368"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-27T06-57-47-382Z</guid>
-      <pubDate>Wed, 27 May 2026 06:57:47 GMT</pubDate>
+        length="225600"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-27T16-57-07-558Z</guid>
+      <pubDate>Wed, 27 May 2026 16:57:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
