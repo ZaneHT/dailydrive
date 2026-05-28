@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Thursday, May 28th, 2026, here in Sydney, and with ...</title>
-      <description>Good afternoon, Naresh! It's Thursday, May 28th, 2026, here in Sydney, and with a comfortable 18°C and that persistent light drizzle, it's definitely an umbrella-worthy afternoon to wrap up the day. As you wind down, let's keep that positive energy flowing, thinking about a cozy evening ahead, perhaps with a warm drink or a good book. And here's a thought for your drive home: did you know the shortest war in history lasted only 38 minutes? Wishing you a safe and smooth commute, a wonderful evening, and a fantastic night's rest – we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and welcome to your Daily Drive on this lovely Friday, May...</title>
+      <description>Good morning, Naresh, and welcome to your Daily Drive on this lovely Friday, May 29th, 2026! It's currently 17 degrees with a light drizzle out there, feeling a bit nippy at 15, so let's get you warmed up for a fantastic day ahead. The forecast predicts a high of 20 degrees, but with a 99% chance of rain, definitely grab that umbrella before you head out! As you get ready to embrace the day, remember that every sunrise brings a fresh opportunity to learn, grow, and make a difference. So, let’s make today count – have a brilliant day, Naresh!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-28T06-46-51-105Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-28T17-30-52-300Z"
         type="audio/mpeg" 
-        length="228864"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-28T06-46-51-105Z</guid>
-      <pubDate>Thu, 28 May 2026 06:46:51 GMT</pubDate>
+        length="232128"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-28T17-30-52-300Z</guid>
+      <pubDate>Thu, 28 May 2026 17:30:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
