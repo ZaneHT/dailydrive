@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Thursday, May 28th, 2026! It's a mild 17 degrees...</title>
-      <description>Good morning, Naresh, and happy Thursday, May 28th, 2026! It's a mild 17 degrees out there right now, feeling a little warmer at 19, with a light drizzle already gracing our Sydney morning. Today's all about making the most of every moment, and since there's a 100% chance of rain with temperatures staying between 17 and 19 degrees, remember to grab that umbrella before you head out! As the Roman philosopher Seneca once said, "Every new beginning comes from some other beginning's end," so let's embrace this new day with a positive spirit and make it truly count.</description>
+      <title>Good afternoon, Naresh! It's Thursday, May 28th, 2026, here in Sydney, and with ...</title>
+      <description>Good afternoon, Naresh! It's Thursday, May 28th, 2026, here in Sydney, and with a comfortable 18°C and that persistent light drizzle, it's definitely an umbrella-worthy afternoon to wrap up the day. As you wind down, let's keep that positive energy flowing, thinking about a cozy evening ahead, perhaps with a warm drink or a good book. And here's a thought for your drive home: did you know the shortest war in history lasted only 38 minutes? Wishing you a safe and smooth commute, a wonderful evening, and a fantastic night's rest – we'll catch you back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-27T16-57-07-558Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-28T06-46-51-105Z"
         type="audio/mpeg" 
-        length="225600"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-27T16-57-07-558Z</guid>
-      <pubDate>Wed, 27 May 2026 16:57:07 GMT</pubDate>
+        length="228864"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-28T06-46-51-105Z</guid>
+      <pubDate>Thu, 28 May 2026 06:46:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
