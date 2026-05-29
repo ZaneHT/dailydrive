@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Friday, May 29th, 2026, here in Sydney, and as we e...</title>
-      <description>Good afternoon, Naresh! It's Friday, May 29th, 2026, here in Sydney, and as we ease into the afternoon, we're sitting at a pleasant 18°C under partly cloudy skies, though it feels a touch cooler at 17°C with an 18 km/h breeze. As you wrap things up and head home, keep that umbrella handy as there's a 100% chance of rain for your commute, so let's make sure we're driving safely and staying dry tonight. Remember, as author Kurt Vonnegut once said, "Enjoy the little things, for one day you may look back and realize they were the big things." So, enjoy those small moments of winding down, have a wonderful and safe evening, get some good rest, and we'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh! It's Saturday, May 30th, 2026 here in Sydney, and what a b...</title>
+      <description>Good morning, Naresh! It's Saturday, May 30th, 2026 here in Sydney, and what a beautiful start to the day with clear skies and a crisp 13 degrees already. With a perfect dry forecast ranging from 12 to 18 degrees, it’s a brilliant opportunity to make the most of this long weekend feeling, even if it's not an official public holiday here in NSW. Remember, every day is a fresh canvas, so let's fill it with vibrant colours and intentional actions. Here’s to a fantastic Saturday, Naresh – make it count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-29T06-47-33-076Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-29T17-26-20-825Z"
         type="audio/mpeg" 
-        length="290688"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-29T06-47-33-076Z</guid>
-      <pubDate>Fri, 29 May 2026 06:47:33 GMT</pubDate>
+        length="206208"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-29T17-26-20-825Z</guid>
+      <pubDate>Fri, 29 May 2026 17:26:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
