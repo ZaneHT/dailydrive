@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive on this lovely Friday, May...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive on this lovely Friday, May 29th, 2026! It's currently 17 degrees with a light drizzle out there, feeling a bit nippy at 15, so let's get you warmed up for a fantastic day ahead. The forecast predicts a high of 20 degrees, but with a 99% chance of rain, definitely grab that umbrella before you head out! As you get ready to embrace the day, remember that every sunrise brings a fresh opportunity to learn, grow, and make a difference. So, let’s make today count – have a brilliant day, Naresh!</description>
+      <title>Good afternoon, Naresh! It's Friday, May 29th, 2026, here in Sydney, and as we e...</title>
+      <description>Good afternoon, Naresh! It's Friday, May 29th, 2026, here in Sydney, and as we ease into the afternoon, we're sitting at a pleasant 18°C under partly cloudy skies, though it feels a touch cooler at 17°C with an 18 km/h breeze. As you wrap things up and head home, keep that umbrella handy as there's a 100% chance of rain for your commute, so let's make sure we're driving safely and staying dry tonight. Remember, as author Kurt Vonnegut once said, "Enjoy the little things, for one day you may look back and realize they were the big things." So, enjoy those small moments of winding down, have a wonderful and safe evening, get some good rest, and we'll catch you back here tomorrow for another Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-28T17-30-52-300Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-29T06-47-33-076Z"
         type="audio/mpeg" 
-        length="232128"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-28T17-30-52-300Z</guid>
-      <pubDate>Thu, 28 May 2026 17:30:52 GMT</pubDate>
+        length="290688"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-29T06-47-33-076Z</guid>
+      <pubDate>Fri, 29 May 2026 06:47:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
