@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Sunday, May 31st, 2026, here in Sydney, and with cl...</title>
-      <description>Good afternoon, Naresh! It's Sunday, May 31st, 2026, here in Sydney, and with clear skies and a comfortable 16°C, it's shaping up to be a beautiful finish to the weekend. As the afternoon winds down, let's look forward to a relaxing evening ahead, perhaps enjoying a delicious meal or simply unwinding with a good book. Remember, a Sunday well spent brings a week of content, so take this time to recharge and prepare for a fantastic week. Wishing you a wonderful evening, a safe journey if you're out and about, and we'll catch you back here tomorrow for your Daily Drive!</description>
+      <title>Good morning Naresh, and happy Monday, June 1st, 2026! It's a crisp 11°C out the...</title>
+      <description>Good morning Naresh, and happy Monday, June 1st, 2026! It's a crisp 11°C out there right now under clear skies, feeling a touch cooler at 7°C, perfect for a fresh start. We're looking at a lovely day ahead in Sydney, with temperatures climbing to a mild 17°C, so let's embrace this brand new week and all the possibilities it holds. Remember, the shortest distance between two points is a straight line, but sometimes the most beautiful journeys take a detour. Go out there and make today count, have an absolutely brilliant day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-31T06-53-20-367Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-31T15-10-26-596Z"
         type="audio/mpeg" 
-        length="230592"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-31T06-53-20-367Z</guid>
-      <pubDate>Sun, 31 May 2026 06:53:20 GMT</pubDate>
+        length="228672"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-05-31T15-10-26-596Z</guid>
+      <pubDate>Sun, 31 May 2026 15:10:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
