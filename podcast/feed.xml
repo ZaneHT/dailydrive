@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning Naresh, and happy Monday, June 1st, 2026! It's a crisp 11°C out the...</title>
-      <description>Good morning Naresh, and happy Monday, June 1st, 2026! It's a crisp 11°C out there right now under clear skies, feeling a touch cooler at 7°C, perfect for a fresh start. We're looking at a lovely day ahead in Sydney, with temperatures climbing to a mild 17°C, so let's embrace this brand new week and all the possibilities it holds. Remember, the shortest distance between two points is a straight line, but sometimes the most beautiful journeys take a detour. Go out there and make today count, have an absolutely brilliant day!</description>
+      <title>Good evening, Naresh! It's Monday, June 1st, 2026, here in Sydney, and it's a ma...</title>
+      <description>Good evening, Naresh! It's Monday, June 1st, 2026, here in Sydney, and it's a mainly clear 14 degrees Celsius, feeling a bit cooler at 12 as you head into the evening. As the day winds down, let's make sure that commute home is safe and sound, allowing you to seamlessly transition into a relaxing evening ahead. Did you know that today marks the official start of winter in Australia? So, grab a warm cuppa, enjoy a wonderful evening, get some good rest, and we'll catch you right back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-05-31T15-10-26-596Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-01T08-28-12-751Z"
         type="audio/mpeg" 
-        length="228672"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-05-31T15-10-26-596Z</guid>
-      <pubDate>Sun, 31 May 2026 15:10:26 GMT</pubDate>
+        length="199680"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-01T08-28-12-751Z</guid>
+      <pubDate>Mon, 01 Jun 2026 08:28:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
