@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Tuesday, June 2nd, 2026! It's a crisp 10°C out t...</title>
-      <description>Good morning, Naresh, and happy Tuesday, June 2nd, 2026! It's a crisp 10°C out there with some light rain falling, so definitely bundle up. Today in Sydney, we're looking at a high of 18°C, and with a 98% chance of rain, your umbrella is definitely going to be your best friend, so grab it before you head out. Remember that every new day is a blank canvas – paint it with purpose, positivity, and a touch of adventure. Have a truly wonderful day, make it count, and let's conquer whatever comes our way!</description>
+      <title>Good morning, Naresh, and happy Wednesday, June 3rd, 2026! It’s a crisp 13°C out...</title>
+      <description>Good morning, Naresh, and happy Wednesday, June 3rd, 2026! It’s a crisp 13°C out there right now under clear Sydney skies, feeling a bit like 10°C, so grab that extra layer. Today is all about embracing new possibilities, with the sun shining bright and temperatures set to climb to a beautiful 19°C later on. Remember that every morning is a chance to reset and create something amazing, so let’s make today absolutely count! Now, let's get your Daily Drive rolling!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-01T19-15-37-244Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-02T17-59-17-276Z"
         type="audio/mpeg" 
-        length="220608"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-01T19-15-37-244Z</guid>
-      <pubDate>Mon, 01 Jun 2026 19:15:37 GMT</pubDate>
+        length="209088"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-02T17-59-17-276Z</guid>
+      <pubDate>Tue, 02 Jun 2026 17:59:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
