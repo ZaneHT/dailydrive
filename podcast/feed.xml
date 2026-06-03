@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh! It's Wednesday, June 3rd, 2026, here in beautiful Sydney, ...</title>
-      <description>Good evening, Naresh! It's Wednesday, June 3rd, 2026, here in beautiful Sydney, and as we wind down, the city's looking clear and crisp at 15°C, feeling a touch cooler at 13°C. What a great day it's been to make some moves, and now it’s time to shift gears and coast into a relaxing evening, perfect for unwinding and maybe tackling that dinner recipe you've been eyeing. Remember, every day is a fresh start, no matter how many times you hit snooze. So, drive safe, enjoy your evening, get some well-deserved rest, and I’ll catch you back here tomorrow for another Daily Drive!</description>
+      <title>Good morning, Naresh, and happy Thursday, June 4th, 2026! It's a partly cloudy s...</title>
+      <description>Good morning, Naresh, and happy Thursday, June 4th, 2026! It's a partly cloudy start here in Sydney with a refreshing 13°C out there, feeling a bit cooler at 10°C, perfect for that first cuppa. Today looks set to be a lovely one, with temps reaching a comfortable 18°C later on and just a 10% chance of rain, so no need for an umbrella. Remember, every sunrise is an invitation to begin again, to learn, and to grow – so let's make today count and fill it with purpose and joy!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-03T08-10-16-744Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-03T18-16-01-876Z"
         type="audio/mpeg" 
-        length="240000"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-03T08-10-16-744Z</guid>
-      <pubDate>Wed, 03 Jun 2026 08:10:16 GMT</pubDate>
+        length="214272"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-03T18-16-01-876Z</guid>
+      <pubDate>Wed, 03 Jun 2026 18:16:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
