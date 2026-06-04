@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive for Thursday, June 4th, 20...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive for Thursday, June 4th, 2026. It's a partly cloudy 14 degrees out there right now, feeling a bit brisk at 10, so make sure you're wrapped up for that journey home. As the day winds down, I hope you're feeling productive and ready to embrace a relaxing evening, perhaps with a good meal and some quiet time. Remember, as the philosopher Lao Tzu said, "A journey of a thousand miles begins with a single step." Drive safe, enjoy your well-deserved evening, and we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Friday, June 5th, 2026, here in Sydney! It's a b...</title>
+      <description>Good morning, Naresh, and happy Friday, June 5th, 2026, here in Sydney! It's a brisk start at 12°C with mainly clear skies, but fear not, the day is set to warm up nicely. As you gear up for the weekend, remember that every sunrise is an invitation to begin again, to learn, and to grow, just like a tree reaching for the light. So, make today count, embrace the opportunities, and have a truly fantastic day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-04T07-18-53-881Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-04T16-42-52-366Z"
         type="audio/mpeg" 
-        length="216192"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-04T07-18-53-881Z</guid>
-      <pubDate>Thu, 04 Jun 2026 07:18:53 GMT</pubDate>
+        length="179136"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-04T16-42-52-366Z</guid>
+      <pubDate>Thu, 04 Jun 2026 16:42:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
