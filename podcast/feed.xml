@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Saturday, June 6th, 2026, from a crisp 10°C here...</title>
-      <description>Good morning, Naresh, and happy Saturday, June 6th, 2026, from a crisp 10°C here in Sydney with perfectly clear skies! As the day unfolds, we're looking at a beautiful, dry Saturday, warming up to a pleasant 18°C, so get ready to soak up that sunshine and make the most of this fantastic weekend. Remember, every day is a chance to learn something new, so let your curiosity lead the way today. Go out there, seize the day, and make it absolutely brilliant!</description>
+      <title>Good afternoon, Naresh, and happy Saturday, June 6th, 2026, here in beautiful Sy...</title>
+      <description>Good afternoon, Naresh, and happy Saturday, June 6th, 2026, here in beautiful Sydney! It’s a perfectly clear 16 degrees out there, feeling just lovely, and the gentle 2 km/h breeze means it's set to be a wonderfully dry and calm evening as you wind down from the week. As you settle into your Saturday, remember that every sunset brings the promise of a new dawn, a chance to rest and recharge. So, let your Daily Drive guide you home safely, enjoy a fantastic evening, and we'll connect again tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-05T16-24-38-894Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-06T06-22-51-937Z"
         type="audio/mpeg" 
-        length="198720"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-05T16-24-38-894Z</guid>
-      <pubDate>Fri, 05 Jun 2026 16:24:38 GMT</pubDate>
+        length="209664"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-06T06-22-51-937Z</guid>
+      <pubDate>Sat, 06 Jun 2026 06:22:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
