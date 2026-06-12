@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Friday, June 12th, 2026, here in Sydney, and the da...</title>
-      <description>Good afternoon, Naresh! It's Friday, June 12th, 2026, here in Sydney, and the day is winding down beautifully with clear skies and a comfortable 17°C, though it feels a touch warmer at 18. As you finish up strong and prepare for that drive home, remember that there's a 73% chance of rain later, so definitely grab that umbrella before you head out, and keep an eye on the road as the evening commute approaches. After a busy week, tonight's all about unwinding and recharging; so as you hit play, let these tunes guide you to a peaceful evening ahead, because as the saying goes, "The best way to predict the future is to create it." Wishing you a safe and relaxing commute home, a wonderful evening, and a truly restful night – we'll catch you back here tomorrow for more Daily Drive!</description>
+      <title>Good morning, Sydney! It’s Saturday, June 13th, 2026, and as you're starting you...</title>
+      <description>Good morning, Sydney! It’s Saturday, June 13th, 2026, and as you're starting your day, it's a cool 12 degrees out there under an overcast sky, feeling just as crisp. Get ready for a lovely day ahead though, with the mercury set to climb to a very pleasant 20 degrees and just a tiny 2% chance of rain, so no need for the umbrella today! Remember, the best way to predict the future is to create it, so let's make this Saturday incredible, Naresh, and fill it with all the good things that make you smile. Go out there and make it a brilliant one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-12T07-16-24-500Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-12T16-38-01-337Z"
         type="audio/mpeg" 
-        length="307584"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-12T07-16-24-500Z</guid>
-      <pubDate>Fri, 12 Jun 2026 07:16:24 GMT</pubDate>
+        length="213888"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-12T16-38-01-337Z</guid>
+      <pubDate>Fri, 12 Jun 2026 16:38:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
