@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh! It's Sunday, June 14th, 2026, and here in Sydney we're enj...</title>
-      <description>Good evening, Naresh! It's Sunday, June 14th, 2026, and here in Sydney we're enjoying a mainly clear afternoon at a comfortable 16°C. As you wind down your weekend, let's keep things calm and cozy, getting ready for a great evening ahead, though with an 88% chance of rain, it’s definitely worth grabbing that umbrella before you head out. Remember, as the great philosopher Lao Tzu once said, "A journey of a thousand miles begins with a single step." So, take that step towards a relaxing evening; drive safe, enjoy your night, and we’ll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Monday, June 15th, 2026! It's a rather mild star...</title>
+      <description>Good morning, Naresh, and happy Monday, June 15th, 2026! It's a rather mild start to the week here in Sydney, currently sitting at 16°C with a light drizzle falling, so it definitely feels like 15°C out there. With a 91% chance of rain throughout the day and a top of 18°C, you'll definitely want to grab that umbrella before you head out! As we kick off this new week, remember that every single day holds the potential for something wonderful to happen, so let's make it a truly great one. Have an absolutely fantastic day, Naresh, and make it count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-14T07-17-55-447Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-14T15-41-53-353Z"
         type="audio/mpeg" 
-        length="241536"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-14T07-17-55-447Z</guid>
-      <pubDate>Sun, 14 Jun 2026 07:17:55 GMT</pubDate>
+        length="238272"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-14T15-41-53-353Z</guid>
+      <pubDate>Sun, 14 Jun 2026 15:41:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
