@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive for Monday, June 15th, 202...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive for Monday, June 15th, 2026 here in Sydney! It's a decidedly overcast 16°C out there right now, feeling exactly as it is, so let's make sure we're winding down nicely as we head into what's looking like a 100% chance of rain for your commute home – definitely grab that umbrella before you head out! As you wrap up your day and navigate those roads, remember a great evening awaits, perhaps with a warm drink and a good book; after all, as Leonardo da Vinci wisely said, "Art is never finished, only abandoned." So, drive safe, enjoy your evening, recharge completely, and we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Tuesday, June 16th, 2026! It's a crisp 11°C unde...</title>
+      <description>Good morning, Naresh, and happy Tuesday, June 16th, 2026! It's a crisp 11°C under overcast skies here in Sydney this morning, perfect for a cozy start to your day. As we head into a beautiful winter's day, remember that the smallest step in the right direction can turn out to be the biggest step of your life. So, crank up that playlist, make today count, and have a truly fantastic day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-15T08-53-36-998Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-15T18-20-12-457Z"
         type="audio/mpeg" 
-        length="267648"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-15T08-53-36-998Z</guid>
-      <pubDate>Mon, 15 Jun 2026 08:53:36 GMT</pubDate>
+        length="169344"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-15T18-20-12-457Z</guid>
+      <pubDate>Mon, 15 Jun 2026 18:20:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
