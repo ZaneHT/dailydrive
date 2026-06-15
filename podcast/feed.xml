@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Monday, June 15th, 2026! It's a rather mild star...</title>
-      <description>Good morning, Naresh, and happy Monday, June 15th, 2026! It's a rather mild start to the week here in Sydney, currently sitting at 16°C with a light drizzle falling, so it definitely feels like 15°C out there. With a 91% chance of rain throughout the day and a top of 18°C, you'll definitely want to grab that umbrella before you head out! As we kick off this new week, remember that every single day holds the potential for something wonderful to happen, so let's make it a truly great one. Have an absolutely fantastic day, Naresh, and make it count!</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive for Monday, June 15th, 202...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive for Monday, June 15th, 2026 here in Sydney! It's a decidedly overcast 16°C out there right now, feeling exactly as it is, so let's make sure we're winding down nicely as we head into what's looking like a 100% chance of rain for your commute home – definitely grab that umbrella before you head out! As you wrap up your day and navigate those roads, remember a great evening awaits, perhaps with a warm drink and a good book; after all, as Leonardo da Vinci wisely said, "Art is never finished, only abandoned." So, drive safe, enjoy your evening, recharge completely, and we'll catch you back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-14T15-41-53-353Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-15T08-53-36-998Z"
         type="audio/mpeg" 
-        length="238272"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-14T15-41-53-353Z</guid>
-      <pubDate>Sun, 14 Jun 2026 15:41:53 GMT</pubDate>
+        length="267648"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-15T08-53-36-998Z</guid>
+      <pubDate>Mon, 15 Jun 2026 08:53:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
