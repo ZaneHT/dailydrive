@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh! It's Wednesday, June 17th, 2026, here in Sydney, and as we...</title>
-      <description>Good evening, Naresh! It's Wednesday, June 17th, 2026, here in Sydney, and as we ease into the evening, it's a pleasant 17°C with overcast skies – perfect for winding down. After a productive day, it’s time to shift gears, enjoy a safe and smooth commute home with those gentle 3 km/h winds, and look forward to a relaxing evening ahead. Here's a little something to ponder: did you know that the shortest distance between two points is a straight line, but the most memorable journeys often aren't? So, drive safely, enjoy your evening, recharge completely, and I'll catch you right back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Thursday, June 18th, 2026! It's a partly cloudy ...</title>
+      <description>Good morning, Naresh, and happy Thursday, June 18th, 2026! It's a partly cloudy 14 degrees out there right now, feeling a little cooler at 13, but don't let that fool you – Sydney is set for a beautiful, dry day, reaching a lovely 21 degrees with just a gentle 7 km/h breeze to keep things fresh. As you kick off your Daily Drive, remember that every sunrise is an invitation to begin again, to learn, to grow, and to make something wonderful happen. So, let's seize this day, make it count, and have an absolutely brilliant Thursday!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-17T08-23-33-952Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-17T16-50-10-977Z"
         type="audio/mpeg" 
-        length="249216"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-17T08-23-33-952Z</guid>
-      <pubDate>Wed, 17 Jun 2026 08:23:33 GMT</pubDate>
+        length="225024"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-17T16-50-10-977Z</guid>
+      <pubDate>Wed, 17 Jun 2026 16:50:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
