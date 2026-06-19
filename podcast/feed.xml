@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive for Friday, June 19th, 202...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive for Friday, June 19th, 2026! It’s currently 17 degrees and overcast here in Sydney as we wind down this work week. As the day cools to a feels-like 14, let's look forward to a relaxing evening, maybe a home-cooked meal, or just kicking back with your favourite tunes. Remember, as author Anne Lamott once said, “Almost everything will work again if you unplug it for a few minutes… including you.” So, have a safe and smooth commute home, Naresh, enjoy your evening, and we'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Saturday, June 20th, 2026! It's a mild 14 degree...</title>
+      <description>Good morning, Naresh, and happy Saturday, June 20th, 2026! It's a mild 14 degrees out there right now, feeling a little cooler under those overcast skies, but don't let that fool you – the day ahead is looking dry and should warm up beautifully to a pleasant 19 degrees. Remember, the shortest day of the year is just around the corner, so let's soak up every minute of daylight we can today and make some amazing memories. Here's to a fantastic Saturday, full of good vibes and making every moment count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-19T08-26-45-109Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-19T16-27-23-541Z"
         type="audio/mpeg" 
-        length="238272"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-19T08-26-45-109Z</guid>
-      <pubDate>Fri, 19 Jun 2026 08:26:45 GMT</pubDate>
+        length="198720"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-19T16-27-23-541Z</guid>
+      <pubDate>Fri, 19 Jun 2026 16:27:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
