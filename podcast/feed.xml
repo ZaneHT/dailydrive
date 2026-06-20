@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Saturday, June 20th, 2026! It's a mild 14 degree...</title>
-      <description>Good morning, Naresh, and happy Saturday, June 20th, 2026! It's a mild 14 degrees out there right now, feeling a little cooler under those overcast skies, but don't let that fool you – the day ahead is looking dry and should warm up beautifully to a pleasant 19 degrees. Remember, the shortest day of the year is just around the corner, so let's soak up every minute of daylight we can today and make some amazing memories. Here's to a fantastic Saturday, full of good vibes and making every moment count!</description>
+      <title>Good afternoon, Naresh, and happy Saturday, June 20th, 2026, here in beautiful S...</title>
+      <description>Good afternoon, Naresh, and happy Saturday, June 20th, 2026, here in beautiful Sydney! With clear skies and a comfortable 17°C, feeling like a mild 15°C, it's shaping up to be a really pleasant afternoon and evening, perfect for winding down after a busy week. As you head home, remember that feeling of accomplishment and know that a relaxing evening awaits – perhaps a good book, a delicious meal, or catching up with loved ones. Speaking of winding down, did you know that the word "weekend" only really came into common usage in the late 19th century? Before that, the concept of two days off was quite rare! So, enjoy your hard-earned evening, drive safely, get some great rest, and we'll catch you right back here tomorrow on Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-19T16-27-23-541Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-20T06-55-36-770Z"
         type="audio/mpeg" 
-        length="198720"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-19T16-27-23-541Z</guid>
-      <pubDate>Fri, 19 Jun 2026 16:27:23 GMT</pubDate>
+        length="311616"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-20T06-55-36-770Z</guid>
+      <pubDate>Sat, 20 Jun 2026 06:55:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
