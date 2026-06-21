@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive this lovely Sunday, June 2...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive this lovely Sunday, June 21st, 2026 here in Sydney, where it’s a crisp 15°C under clear skies, feeling just a touch cooler at 13°C. After a beautiful day with temperatures reaching 17°C, it's the perfect time to wind down, enjoy a safe journey home, and ease into a relaxing evening. As you make your way, remember that even the longest journey begins with a single step, or in your case, perhaps a perfect song. So, settle in, enjoy your evening Naresh, rest up, and we'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Monday, June 22nd, 2026! It's a crisp start to t...</title>
+      <description>Good morning, Naresh, and happy Monday, June 22nd, 2026! It's a crisp start to the day here in Sydney, currently sitting at 10°C under partly cloudy skies, but trust me, it’s going to warm up beautifully. Looking ahead, we're talking about a fantastic winter's day, climbing up to a pleasant 17°C with barely a whisper of rain – just 4% chance all day, so no need for that brolly! Remember, every new day is a blank canvas, so grab your favourite mug, hit play on your Daily Drive playlist, and let's paint today with purpose and joy. Make it count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-21T07-28-00-271Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-21T15-44-53-269Z"
         type="audio/mpeg" 
-        length="251136"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-21T07-28-00-271Z</guid>
-      <pubDate>Sun, 21 Jun 2026 07:28:00 GMT</pubDate>
+        length="237120"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-21T15-44-53-269Z</guid>
+      <pubDate>Sun, 21 Jun 2026 15:44:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
