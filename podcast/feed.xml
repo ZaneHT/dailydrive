@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Sunday, June 21st, 2026! It's a crisp start here...</title>
-      <description>Good morning, Naresh, and happy Sunday, June 21st, 2026! It's a crisp start here in Sydney with clear skies and a refreshing 11°C right now, but it feels more like 9°C, perfect for a cozy morning. Today promises a beautiful winter day, topping out at a pleasant 17°C with absolutely no rain in sight, so you can leave that umbrella at home and soak up every bit of sunshine as you head into the week ahead. Remember, the best way to predict the future is to create it, so let's make today count! Have a truly brilliant day, Naresh, and make it extraordinary.</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive this lovely Sunday, June 2...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive this lovely Sunday, June 21st, 2026 here in Sydney, where it’s a crisp 15°C under clear skies, feeling just a touch cooler at 13°C. After a beautiful day with temperatures reaching 17°C, it's the perfect time to wind down, enjoy a safe journey home, and ease into a relaxing evening. As you make your way, remember that even the longest journey begins with a single step, or in your case, perhaps a perfect song. So, settle in, enjoy your evening Naresh, rest up, and we'll catch you back here tomorrow for another Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-20T15-27-58-159Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-21T07-28-00-271Z"
         type="audio/mpeg" 
-        length="241344"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-20T15-27-58-159Z</guid>
-      <pubDate>Sat, 20 Jun 2026 15:27:58 GMT</pubDate>
+        length="251136"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-21T07-28-00-271Z</guid>
+      <pubDate>Sun, 21 Jun 2026 07:28:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
