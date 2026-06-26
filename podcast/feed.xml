@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Friday, June 26th, 2026! It's a crisp 11°C with ...</title>
-      <description>Good morning, Naresh, and happy Friday, June 26th, 2026! It's a crisp 11°C with a light drizzle starting your day here in Sydney, so grab that umbrella before you head out, as there's a 96% chance of rain today, with temperatures reaching a high of 15°C. As you kick off this beautiful Friday, remember that every new day is a blank canvas, full of possibilities waiting for your unique brushstrokes. So, let’s make today extraordinary and paint a masterpiece – have a truly fantastic day, Naresh, and make every moment count!</description>
+      <title>Good afternoon, Naresh! It's Friday, June 26th, 2026 here in Sydney, and the cit...</title>
+      <description>Good afternoon, Naresh! It's Friday, June 26th, 2026 here in Sydney, and the city is looking mainly clear with a cool 14°C right now, feeling like a crisp 13°C out there. As you wind down your day, I hope you’re feeling ready for a fantastic evening ahead, but with a 99% chance of rain on the way, definitely grab that umbrella for your commute home! Remember, as the great Ferris Bueller once said, "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." So, drive safe, enjoy your evening, recharge, and I'll catch you back here tomorrow for another Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-25T16-14-27-265Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-26T06-46-21-602Z"
         type="audio/mpeg" 
-        length="229248"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-25T16-14-27-265Z</guid>
-      <pubDate>Thu, 25 Jun 2026 16:14:27 GMT</pubDate>
+        length="258624"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-26T06-46-21-602Z</guid>
+      <pubDate>Fri, 26 Jun 2026 06:46:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
