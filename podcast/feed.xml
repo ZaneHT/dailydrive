@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Friday, June 26th, 2026 here in Sydney, and the cit...</title>
-      <description>Good afternoon, Naresh! It's Friday, June 26th, 2026 here in Sydney, and the city is looking mainly clear with a cool 14°C right now, feeling like a crisp 13°C out there. As you wind down your day, I hope you’re feeling ready for a fantastic evening ahead, but with a 99% chance of rain on the way, definitely grab that umbrella for your commute home! Remember, as the great Ferris Bueller once said, "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." So, drive safe, enjoy your evening, recharge, and I'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Saturday, June 27th, 2026! It's a crisp 11 degre...</title>
+      <description>Good morning, Naresh, and happy Saturday, June 27th, 2026! It's a crisp 11 degrees here in Sydney, feeling like 10, with mainly clear skies right now. As the day unfolds, we're looking at a top of 15 degrees, but with a 94% chance of rain, definitely grab that umbrella before you head out! Remember, every new day is a fresh opportunity to write your own story – make this Saturday a chapter filled with joy, purpose, and all the good vibes. Enjoy your Daily Drive, and have a truly wonderful day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-26T06-46-21-602Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-26T16-05-42-934Z"
         type="audio/mpeg" 
-        length="258624"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-26T06-46-21-602Z</guid>
-      <pubDate>Fri, 26 Jun 2026 06:46:21 GMT</pubDate>
+        length="214272"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-26T16-05-42-934Z</guid>
+      <pubDate>Fri, 26 Jun 2026 16:05:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
