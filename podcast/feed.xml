@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Monday, June 29th, 2026! It's a crisp start to t...</title>
-      <description>Good morning, Naresh, and happy Monday, June 29th, 2026! It's a crisp start to the week here in Sydney, currently sitting at 10 degrees with a light drizzle to greet us. Today looks like a fantastic day to get things done, with temperatures reaching a comfortable 17 degrees and a low 44% chance of rain, meaning those clouds should clear up nicely for a predominantly dry day ahead. Did you know that the word "Monday" actually comes from "moon day"? So let's harness that lunar energy and have an absolutely brilliant day, make it count, and fill it with all the good vibes.</description>
+      <title>Good afternoon, Naresh, and welcome to your Daily Drive this Monday, June 29th, ...</title>
+      <description>Good afternoon, Naresh, and welcome to your Daily Drive this Monday, June 29th, 2026 here in Sydney! It's currently a partly cloudy 16 degrees, feeling like a crisp 15, perfect for a relaxing wind-down. As your workday wraps up, let's transition smoothly into a great evening, perhaps with a good meal and some downtime to recharge. Remember, as the great Aristotle once said, "The aim of art is not to represent the outward appearance of things, but their inward significance." Stay safe on your commute home, enjoy a wonderful evening, and we'll catch you tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-28T15-11-01-204Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-29T07-23-14-850Z"
         type="audio/mpeg" 
-        length="234240"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-28T15-11-01-204Z</guid>
-      <pubDate>Sun, 28 Jun 2026 15:11:01 GMT</pubDate>
+        length="232128"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-29T07-23-14-850Z</guid>
+      <pubDate>Mon, 29 Jun 2026 07:23:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
