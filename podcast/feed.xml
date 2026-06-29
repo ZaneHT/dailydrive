@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and welcome to your Daily Drive this Monday, June 29th, ...</title>
-      <description>Good afternoon, Naresh, and welcome to your Daily Drive this Monday, June 29th, 2026 here in Sydney! It's currently a partly cloudy 16 degrees, feeling like a crisp 15, perfect for a relaxing wind-down. As your workday wraps up, let's transition smoothly into a great evening, perhaps with a good meal and some downtime to recharge. Remember, as the great Aristotle once said, "The aim of art is not to represent the outward appearance of things, but their inward significance." Stay safe on your commute home, enjoy a wonderful evening, and we'll catch you tomorrow!</description>
+      <title>Good morning, Naresh, and happy Tuesday, June 30th, 2026, here in beautiful Sydn...</title>
+      <description>Good morning, Naresh, and happy Tuesday, June 30th, 2026, here in beautiful Sydney! It's a crisp 11°C out there right now under mainly clear skies, but get ready for a fantastic day climbing up to 18°C. Remember, the early bird catches the worm, or in today's case, probably avoids getting soaked later – there's a 76% chance of rain, so definitely grab that umbrella before you head out! Make today count, Naresh, and let your energy shine!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-29T07-23-14-850Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-29T16-48-27-426Z"
         type="audio/mpeg" 
-        length="232128"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-29T07-23-14-850Z</guid>
-      <pubDate>Mon, 29 Jun 2026 07:23:14 GMT</pubDate>
+        length="200256"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-29T16-48-27-426Z</guid>
+      <pubDate>Mon, 29 Jun 2026 16:48:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
