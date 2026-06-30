@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Tuesday, June 30th, 2026, here in Sydney, and it's ...</title>
-      <description>Good afternoon, Naresh! It's Tuesday, June 30th, 2026, here in Sydney, and it's a decidedly overcast 17°C, feeling a touch cooler at 15°C out there right now. As your day winds down, I hope you’re feeling ready to switch gears and transition smoothly into a relaxing evening. Don't forget, there's a 53% chance of rain for your commute home, so it might be wise to grab that umbrella before you head out! Here's to a safe journey home, a fantastic evening ahead, and recharging for whatever tomorrow brings.</description>
+      <title>Good morning, Naresh, and happy Wednesday, July 1st, 2026, from a crisp 14°C and...</title>
+      <description>Good morning, Naresh, and happy Wednesday, July 1st, 2026, from a crisp 14°C and mainly clear Sydney! As you kick off your Daily Drive, remember that every new day is a blank page, ready for you to write your next adventure. Here's a little thought to fuel your day: the shortest day of the year in the Southern Hemisphere might have passed, but the days are already growing longer, carrying us towards brighter times. Have a truly wonderful day, make it count, and fill it with all the good vibes!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-30T06-50-32-154Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-30T16-14-54-390Z"
         type="audio/mpeg" 
-        length="220608"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-30T06-50-32-154Z</guid>
-      <pubDate>Tue, 30 Jun 2026 06:50:32 GMT</pubDate>
+        length="196608"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-06-30T16-14-54-390Z</guid>
+      <pubDate>Tue, 30 Jun 2026 16:14:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
