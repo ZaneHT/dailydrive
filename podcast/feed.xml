@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Wednesday, July 1st, 2026, from a crisp 14°C and...</title>
-      <description>Good morning, Naresh, and happy Wednesday, July 1st, 2026, from a crisp 14°C and mainly clear Sydney! As you kick off your Daily Drive, remember that every new day is a blank page, ready for you to write your next adventure. Here's a little thought to fuel your day: the shortest day of the year in the Southern Hemisphere might have passed, but the days are already growing longer, carrying us towards brighter times. Have a truly wonderful day, make it count, and fill it with all the good vibes!</description>
+      <title>Good afternoon, Naresh! It's Wednesday, July 1st, 2026, here in beautiful Sydney...</title>
+      <description>Good afternoon, Naresh! It's Wednesday, July 1st, 2026, here in beautiful Sydney, and as you're winding down, it's a pleasant 18°C, feeling like 17°C under partly cloudy skies. Hope your day has been productive and you're ready to shift gears into a relaxing evening, with those light 16 km/h winds making for a comfortable commute home. As you drive, remember that "the best way to predict the future is to create it" – so let's make this evening a great one, setting the stage for an even better tomorrow. Drive safe, enjoy your well-deserved break, and I'll catch you again for your Daily Drive!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-06-30T16-14-54-390Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-01T07-05-31-452Z"
         type="audio/mpeg" 
-        length="196608"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-06-30T16-14-54-390Z</guid>
-      <pubDate>Tue, 30 Jun 2026 16:14:54 GMT</pubDate>
+        length="249600"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-01T07-05-31-452Z</guid>
+      <pubDate>Wed, 01 Jul 2026 07:05:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
