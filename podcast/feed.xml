@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It's Thursday, July 2nd, 2026, and while it's a drizzly 16...</title>
-      <description>Good morning, Sydney! It's Thursday, July 2nd, 2026, and while it's a drizzly 16 degrees out there right now, feeling a touch cooler, let's bring our own sunshine to the day! With a 100% chance of rain and a high of 21 degrees, grab that umbrella before you head out, and remember, a rainy day is just a good excuse for an extra cozy coffee. As the saying goes, "The best way to predict the future is to create it," so let's make today count and create something amazing. Have a truly wonderful day, Naresh!</description>
+      <title>Good afternoon, Naresh, and welcome to your Daily Drive on this Thursday, July 2...</title>
+      <description>Good afternoon, Naresh, and welcome to your Daily Drive on this Thursday, July 2nd, 2026, here in Sydney! It’s a beautifully clear 19°C out there right now, feeling a touch cooler at 16°C with a gentle 16 km/h breeze – perfect conditions for winding down after a busy day. As you head home, just a friendly heads-up: there's a 100% chance of rain, so definitely grab that umbrella before you leave! Here's a little thought for your commute: "The future belongs to those who believe in the beauty of their dreams." Drive safe, have a wonderful evening, relax and recharge, and I'll catch you back here tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-01T16-14-56-177Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-02T06-32-55-900Z"
         type="audio/mpeg" 
-        length="203904"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-01T16-14-56-177Z</guid>
-      <pubDate>Wed, 01 Jul 2026 16:14:56 GMT</pubDate>
+        length="261888"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-02T06-32-55-900Z</guid>
+      <pubDate>Thu, 02 Jul 2026 06:32:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
