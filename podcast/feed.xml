@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, July 7th,...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, July 7th, 2026, here in Sydney, where it's a cool 11 degrees with a light drizzle to start our day. Let's embrace this fresh morning and set ourselves up for an absolutely brilliant day ahead, full of opportunities and good vibes. Remember, even the smallest step forward is progress, so make today count and chase those goals, big or small! Now, with a 100% chance of rain throughout the day, definitely grab that umbrella before you head out, and have a truly fantastic one!</description>
+      <title>Good afternoon, Naresh! It's Tuesday, July 7th, 2026 here in Sydney, and at 15°C...</title>
+      <description>Good afternoon, Naresh! It's Tuesday, July 7th, 2026 here in Sydney, and at 15°C with mainly clear skies, it's feeling a crisp 12°C out there as we start winding down. As you ease into the rest of your afternoon and evening, remember that today's a perfect 100% chance of rain, so definitely grab that umbrella for the commute home and let's get you there safely. Speaking of the day's end, did you know that the word "goodbye" actually comes from "God be with ye"? So, God be with you as you drive home, enjoy a wonderful evening, recharge, and I'll catch you right back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-06T16-47-00-327Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-07T06-38-02-294Z"
         type="audio/mpeg" 
-        length="219648"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-06T16-47-00-327Z</guid>
-      <pubDate>Mon, 06 Jul 2026 16:47:00 GMT</pubDate>
+        length="245184"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-07T06-38-02-294Z</guid>
+      <pubDate>Tue, 07 Jul 2026 06:38:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
