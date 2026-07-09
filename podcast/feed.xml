@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Thursday, July 9th, 2026, here in beautiful Sydn...</title>
-      <description>Good morning, Naresh, and happy Thursday, July 9th, 2026, here in beautiful Sydney! It's currently a cool 12°C with a light drizzle to greet us. Now, let's seize this day, remember that even a little rain can bring big growth, and with a 99% chance of showers today, definitely grab that umbrella before you head out! So, let's embrace this fresh start, power through our Daily Drive, and make today truly count!</description>
+      <title>Good afternoon, Naresh! It's Thursday, July 9th, 2026, here in Sydney, and with ...</title>
+      <description>Good afternoon, Naresh! It's Thursday, July 9th, 2026, here in Sydney, and with clear skies and a crisp 15°C feeling more like 13°, it's definitely time to start thinking about wrapping up your day. As you wind down, remember that a productive day deserves a peaceful evening, and with a 100% chance of rain on the horizon, definitely grab that umbrella for your commute home! So, as you hit play on your Daily Drive playlist, remember this: the best way to predict the future is to create it. Drive safely, enjoy your evening, and we'll catch you back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-08T15-56-32-234Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-09T06-35-55-295Z"
         type="audio/mpeg" 
-        length="180672"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-08T15-56-32-234Z</guid>
-      <pubDate>Wed, 08 Jul 2026 15:56:32 GMT</pubDate>
+        length="235392"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-09T06-35-55-295Z</guid>
+      <pubDate>Thu, 09 Jul 2026 06:35:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
