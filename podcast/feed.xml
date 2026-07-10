@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Friday, July 10th, 2026! It’s currently a crisp ...</title>
-      <description>Good morning, Naresh, and happy Friday, July 10th, 2026! It’s currently a crisp 10°C out there, feeling a little cooler at 8°C under mainly clear skies, perfect for easing into this brand new day. As we roll into the weekend, remember that the biggest adventure you can take is to live the life of your dreams, so let’s make every moment count today. Just a heads up, there’s a 61% chance of rain later, so definitely grab that umbrella before you head out the door – have a truly fantastic day, Naresh!</description>
+      <title>Good morning, Naresh, and happy Saturday, July 11th, 2026, here in Sydney! It's ...</title>
+      <description>Good morning, Naresh, and happy Saturday, July 11th, 2026, here in Sydney! It's a cool 9 degrees Celsius and quite overcast right now, but that's just setting the stage for a beautiful day ahead, with temperatures reaching a comfortable 17 degrees, perfect for making some fresh memories. Remember, the early bird might catch the worm, but the second mouse gets the cheese – so find your own pace today and make it count. Have an absolutely fantastic day, Naresh, and let's get that Daily Drive playlist rolling!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-09T16-21-37-402Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-10T16-13-33-195Z"
         type="audio/mpeg" 
-        length="212736"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-09T16-21-37-402Z</guid>
-      <pubDate>Thu, 09 Jul 2026 16:21:37 GMT</pubDate>
+        length="208128"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-10T16-13-33-195Z</guid>
+      <pubDate>Fri, 10 Jul 2026 16:13:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
