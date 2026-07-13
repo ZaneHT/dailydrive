@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Monday, July 13th, 2026, and what a beautiful after...</title>
-      <description>Good afternoon, Naresh! It's Monday, July 13th, 2026, and what a beautiful afternoon it is here in Sydney with clear skies and a comfortable 18 degrees Celsius. As the day winds down, let's look forward to a peaceful evening ahead, a perfect chance to relax and recharge after a productive start to the week. Did you know that the term "Monday" comes from Old English and literally means "day of the moon"? So, here's to a luminous evening for you – drive safe, enjoy every moment, and we'll catch you right back here tomorrow!</description>
+      <title>Good morning, Naresh! It's Tuesday, July 14th, 2026, here in Sydney, and what a ...</title>
+      <description>Good morning, Naresh! It's Tuesday, July 14th, 2026, here in Sydney, and what a beautiful start we have with those clear skies and a crisp 9°C feeling like 6°C right now. Today is looking absolutely gorgeous with a comfortable high of 18°C, perfect for tackling whatever the day throws at you. Remember, the journey of a thousand miles begins with a single step, so let's make that first step today a powerful one. Have a truly amazing day, make it count, and enjoy every moment!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-13T05-59-43-269Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-13T16-20-18-390Z"
         type="audio/mpeg" 
-        length="212352"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-13T05-59-43-269Z</guid>
-      <pubDate>Mon, 13 Jul 2026 05:59:43 GMT</pubDate>
+        length="212928"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-13T16-20-18-390Z</guid>
+      <pubDate>Mon, 13 Jul 2026 16:20:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
