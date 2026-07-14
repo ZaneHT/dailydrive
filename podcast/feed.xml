@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh! It's Tuesday, July 14th, 2026, here in Sydney, and what a ...</title>
-      <description>Good morning, Naresh! It's Tuesday, July 14th, 2026, here in Sydney, and what a beautiful start we have with those clear skies and a crisp 9°C feeling like 6°C right now. Today is looking absolutely gorgeous with a comfortable high of 18°C, perfect for tackling whatever the day throws at you. Remember, the journey of a thousand miles begins with a single step, so let's make that first step today a powerful one. Have a truly amazing day, make it count, and enjoy every moment!</description>
+      <title>Good afternoon, Naresh! It's Tuesday, July 14th, 2026 here in Sydney, and what a...</title>
+      <description>Good afternoon, Naresh! It's Tuesday, July 14th, 2026 here in Sydney, and what a lovely afternoon it is, currently sitting at a comfortable 18°C under those clear skies. As you wind down your workday, let's look forward to a relaxing evening ahead, knowing your commute will be smooth and dry with no rain in sight and just a gentle 9 km/h breeze. As you head home, remember this: "The best way to predict the future is to create it." Have a wonderful, safe drive, enjoy your evening, recharge, and I'll catch you right back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-13T16-20-18-390Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-14T05-22-10-097Z"
         type="audio/mpeg" 
-        length="212928"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-13T16-20-18-390Z</guid>
-      <pubDate>Mon, 13 Jul 2026 16:20:18 GMT</pubDate>
+        length="225408"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-14T05-22-10-097Z</guid>
+      <pubDate>Tue, 14 Jul 2026 05:22:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
