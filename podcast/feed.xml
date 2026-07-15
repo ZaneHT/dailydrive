@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and welcome to your Daily Drive this Wednesday, July 15t...</title>
-      <description>Good afternoon, Naresh, and welcome to your Daily Drive this Wednesday, July 15th, 2026! It's a clear and crisp 15°C out there, feeling a bit cooler with that breeze, perfect for winding down the work day. As you navigate the afternoon, let's look forward to a peaceful evening ahead, perhaps a good meal and some well-deserved relaxation. Did you know that the shortest recorded war in history lasted only 38 to 45 minutes, between Britain and Zanzibar in 1896? Here's to a safe and smooth commute home, Naresh; enjoy your evening, recharge, and we’ll catch you back here tomorrow for another Daily Drive!</description>
+      <title>Good morning, Naresh, and welcome to your Daily Drive for Thursday, July 16th, 2...</title>
+      <description>Good morning, Naresh, and welcome to your Daily Drive for Thursday, July 16th, 2026! It's a crisp 11°C out there right now under mainly clear skies, but don't let that fool you, as we're looking at a high of 16°C and a 100% chance of rain today, so definitely grab that umbrella before you head out. As you kick off this beautiful winter's day, remember that every sunrise brings new possibilities – today is a blank canvas, so let's fill it with purpose and joy. Here’s to a fantastic Thursday; make it count and have an absolutely brilliant day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-15T05-23-26-410Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-15T15-17-14-448Z"
         type="audio/mpeg" 
-        length="257280"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-15T05-23-26-410Z</guid>
-      <pubDate>Wed, 15 Jul 2026 05:23:26 GMT</pubDate>
+        length="228864"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-15T15-17-14-448Z</guid>
+      <pubDate>Wed, 15 Jul 2026 15:17:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
