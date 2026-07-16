@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and happy Thursday, July 16th, 2026! It's a rather damp ...</title>
-      <description>Good afternoon, Naresh, and happy Thursday, July 16th, 2026! It's a rather damp 15°C with a light drizzle falling across Sydney, feeling a bit nippy out there at 12°C with that 23 km/h wind. As the day winds down and you head home, remember to take it easy on the roads with that 100% chance of rain continuing, so keep that umbrella handy and let's get you safely home for a cosy evening. They say the longest journey starts with a single step, but sometimes, the most important journey is the one back to your couch. So, have a wonderful evening, recharge, and I'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Friday, July 17th, 2026! It's a cool 13°C here i...</title>
+      <description>Good morning, Naresh, and happy Friday, July 17th, 2026! It's a cool 13°C here in Sydney with a light drizzle to greet us, so let's use that gentle start to fuel an amazing day. Today, as we hit the middle of July, remember that every new day is a fresh opportunity to learn, grow, and create something wonderful. Embrace the day with an open mind and a determined spirit, and since there's a 100% chance of rain, definitely grab that umbrella before you head out, and have a truly fantastic and productive day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-16T05-32-13-168Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-16T15-24-47-186Z"
         type="audio/mpeg" 
-        length="257088"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-16T05-32-13-168Z</guid>
-      <pubDate>Thu, 16 Jul 2026 05:32:13 GMT</pubDate>
+        length="215232"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-16T15-24-47-186Z</guid>
+      <pubDate>Thu, 16 Jul 2026 15:24:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
