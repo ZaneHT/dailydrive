@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive for Thursday, July 16th, 2...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive for Thursday, July 16th, 2026! It's a crisp 11°C out there right now under mainly clear skies, but don't let that fool you, as we're looking at a high of 16°C and a 100% chance of rain today, so definitely grab that umbrella before you head out. As you kick off this beautiful winter's day, remember that every sunrise brings new possibilities – today is a blank canvas, so let's fill it with purpose and joy. Here’s to a fantastic Thursday; make it count and have an absolutely brilliant day!</description>
+      <title>Good afternoon, Naresh, and happy Thursday, July 16th, 2026! It's a rather damp ...</title>
+      <description>Good afternoon, Naresh, and happy Thursday, July 16th, 2026! It's a rather damp 15°C with a light drizzle falling across Sydney, feeling a bit nippy out there at 12°C with that 23 km/h wind. As the day winds down and you head home, remember to take it easy on the roads with that 100% chance of rain continuing, so keep that umbrella handy and let's get you safely home for a cosy evening. They say the longest journey starts with a single step, but sometimes, the most important journey is the one back to your couch. So, have a wonderful evening, recharge, and I'll catch you back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-15T15-17-14-448Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-16T05-32-13-168Z"
         type="audio/mpeg" 
-        length="228864"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-15T15-17-14-448Z</guid>
-      <pubDate>Wed, 15 Jul 2026 15:17:14 GMT</pubDate>
+        length="257088"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-16T05-32-13-168Z</guid>
+      <pubDate>Thu, 16 Jul 2026 05:32:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
