@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Saturday, July 18th, 2026, here in Sydney, and with...</title>
-      <description>Good afternoon, Naresh! It's Saturday, July 18th, 2026, here in Sydney, and with a comfortable 17°C and mainly clear skies, it’s shaping up to be a lovely start to your afternoon. As you wind down your day and perhaps think about that drive home, remember that there's a 58% chance of rain later, so definitely grab that umbrella before you head out, and take it easy on the roads. Here's a little something to ponder: Did you know that the word "saturday" actually comes from "Saturn's Day" in Old English? So, here's to a cosmic evening! Drive safely, enjoy your night, and we’ll catch up again tomorrow.</description>
+      <title>Good morning, Naresh, and happy Sunday, July 19th, 2026! It’s a partly cloudy st...</title>
+      <description>Good morning, Naresh, and happy Sunday, July 19th, 2026! It’s a partly cloudy start here in Sydney, currently sitting at a cool 14 degrees Celsius, feeling like 13. As the day unfolds, we’re looking at a high of 17, and with only a 20% chance of rain, it’s looking like a mostly dry and pleasant Sunday to make some magic happen! Remember, even a small step forward is still forward; let's embrace the fresh start and make today count with purpose and joy. Have a truly wonderful day, Naresh!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-18T05-17-13-336Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-18T14-42-53-993Z"
         type="audio/mpeg" 
-        length="251328"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-18T05-17-13-336Z</guid>
-      <pubDate>Sat, 18 Jul 2026 05:17:13 GMT</pubDate>
+        length="211968"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-18T14-42-53-993Z</guid>
+      <pubDate>Sat, 18 Jul 2026 14:42:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
