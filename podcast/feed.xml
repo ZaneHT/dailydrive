@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive on this Saturday, July 18t...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive on this Saturday, July 18th, 2026! It's a cool 12°C out there right now with a light drizzle, but don't let that dampen your spirits, because today is all about embracing the beauty of a fresh start, with temperatures set to reach a pleasant 18°C later. As the great Maya Angelou once said, "If you don't like something, change it. If you can't change it, change your attitude." So, let’s choose a brilliant attitude and make today absolutely extraordinary!</description>
+      <title>Good afternoon, Naresh! It's Saturday, July 18th, 2026, here in Sydney, and with...</title>
+      <description>Good afternoon, Naresh! It's Saturday, July 18th, 2026, here in Sydney, and with a comfortable 17°C and mainly clear skies, it’s shaping up to be a lovely start to your afternoon. As you wind down your day and perhaps think about that drive home, remember that there's a 58% chance of rain later, so definitely grab that umbrella before you head out, and take it easy on the roads. Here's a little something to ponder: Did you know that the word "saturday" actually comes from "Saturn's Day" in Old English? So, here's to a cosmic evening! Drive safely, enjoy your night, and we’ll catch up again tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-17T15-04-26-897Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-18T05-17-13-336Z"
         type="audio/mpeg" 
-        length="209664"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-17T15-04-26-897Z</guid>
-      <pubDate>Fri, 17 Jul 2026 15:04:26 GMT</pubDate>
+        length="251328"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-18T05-17-13-336Z</guid>
+      <pubDate>Sat, 18 Jul 2026 05:17:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
