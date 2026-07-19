@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and welcome to your Daily Drive on this lovely Sunday, J...</title>
-      <description>Good afternoon, Naresh, and welcome to your Daily Drive on this lovely Sunday, July 19th, 2026 here in Sydney! The sun is still shining, mostly clear skies out there with a pleasant 16 degrees Celsius – feeling just a touch cooler at 15 – a perfect afternoon to start winding down. As the day begins to fade, remember to embrace the quiet moments; sometimes the most productive thing you can do is relax. As you head home, with a low 20% chance of rain keeping things dry, stay safe on the roads, enjoy a wonderful evening, and we'll catch you back here tomorrow to kick off another week!</description>
+      <title>Good morning, Sydney! It’s Monday, July 20th, 2026, and as you start your week, ...</title>
+      <description>Good morning, Sydney! It’s Monday, July 20th, 2026, and as you start your week, it's a cool 11°C under overcast skies, feeling like 10°C out there. With a dry day ahead, ranging from 8°C to a pleasant 17°C with just a light 7 km/h breeze, today is your canvas to create something wonderful. Remember, the best way to predict the future is to create it, so let's make this Monday truly count. Have a fantastic day, make it shine!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-19T05-43-24-578Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-19T14-45-58-925Z"
         type="audio/mpeg" 
-        length="235584"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-19T05-43-24-578Z</guid>
-      <pubDate>Sun, 19 Jul 2026 05:43:24 GMT</pubDate>
+        length="208512"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-19T14-45-58-925Z</guid>
+      <pubDate>Sun, 19 Jul 2026 14:45:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
