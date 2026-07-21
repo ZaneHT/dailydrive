@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Tuesday, July 21st, 2026, here in Sydney, and with ...</title>
-      <description>Good afternoon, Naresh! It's Tuesday, July 21st, 2026, here in Sydney, and with the mercury sitting at a comfortable 17°C and mainly clear skies, it’s looking like a absolutely beautiful afternoon to be winding things down. As your day transitions into a well-deserved evening, I hope you’re feeling ready to shift gears, perhaps enjoy a peaceful commute home, and embrace whatever relaxing plans you have ahead – maybe a delicious dinner or just some quiet time to recharge. Speaking of winding down, did you know that the average person spends about a third of their life asleep? So here's to a safe drive, a wonderful evening, and a great night's rest to prepare you for whatever tomorrow brings.</description>
+      <title>Good morning, Naresh, and welcome to your Daily Drive on this Wednesday, July 22...</title>
+      <description>Good morning, Naresh, and welcome to your Daily Drive on this Wednesday, July 22nd, 2026! It's a crisp and clear 11 degrees out there right now, feeling like a cool 10, perfect for a fresh start. You're in for a beautiful day today in Sydney, with temperatures climbing from a cool 7 to a pleasant 18 degrees and absolutely no rain in sight, so leave that umbrella at home and soak up every bit of sunshine. Remember, every sunrise is an invitation to rise above yesterday, so let's make today count! Have an absolutely fantastic day, seize every opportunity, and crush it!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-21T05-41-57-871Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-21T15-27-53-223Z"
         type="audio/mpeg" 
-        length="271872"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-21T05-41-57-871Z</guid>
-      <pubDate>Tue, 21 Jul 2026 05:41:57 GMT</pubDate>
+        length="235968"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-21T15-27-53-223Z</guid>
+      <pubDate>Tue, 21 Jul 2026 15:27:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
