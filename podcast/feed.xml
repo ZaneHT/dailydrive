@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Friday, July 24th, 2026! We're kicking off the d...</title>
-      <description>Good morning, Naresh, and happy Friday, July 24th, 2026! We're kicking off the day here in Sydney with clear skies and a chilly 8°C, though it definitely feels more like 3°C out there right now. Get ready for a beautiful winter day with sunshine taking us up to a high of 15°C, and with a zero percent chance of rain, you can leave that brolly at home! Remember, today is a fresh canvas, so let's make every moment count and have an absolutely brilliant day!</description>
+      <title>Good afternoon, Naresh! It's Friday, July 24th, 2026 here in Sydney, and what a ...</title>
+      <description>Good afternoon, Naresh! It's Friday, July 24th, 2026 here in Sydney, and what a beautiful afternoon it is, currently sitting at a crisp 15°C with those clear skies we love. As the day winds down and you get ready to head home, let's keep that positive energy flowing into a relaxing evening. Did you know that the term "weekend" only became widely used in the late 19th century? Here's to making the most of ours! Stay safe on your commute, enjoy your well-deserved evening, and we'll catch you back here tomorrow for more Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-23T15-46-37-151Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-24T05-42-06-407Z"
         type="audio/mpeg" 
-        length="199680"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-23T15-46-37-151Z</guid>
-      <pubDate>Thu, 23 Jul 2026 15:46:37 GMT</pubDate>
+        length="217536"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-24T05-42-06-407Z</guid>
+      <pubDate>Fri, 24 Jul 2026 05:42:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
