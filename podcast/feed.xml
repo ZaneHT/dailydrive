@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Saturday, July 25th, 2026! It's a crisp start to...</title>
-      <description>Good morning, Naresh, and happy Saturday, July 25th, 2026! It's a crisp start to your weekend here in Sydney, with clear skies and a cool 8°C feeling like 4°C right now. Looks like we're in for a beautiful winter's day, climbing all the way to 18°C later with absolutely no rain in sight – perfect for whatever your Saturday brings! Remember, the best way to predict the future is to create it, so let's make today count and have an absolutely fantastic one.</description>
+      <title>Good afternoon, Naresh! It's Saturday, July 25th, 2026, here in Sydney, and what...</title>
+      <description>Good afternoon, Naresh! It's Saturday, July 25th, 2026, here in Sydney, and what a clear, crisp afternoon we're having, currently sitting at a lovely 18°C. As the day winds down, let's look forward to a relaxing evening, maybe a delicious home-cooked meal, or just kicking back with a good book. Did you know that the longest recorded flight of a chicken is 13 seconds? Keep that in your back pocket for your next trivia night! For now, have a fantastic evening, enjoy your playlist, and I'll catch you back here tomorrow for more Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-24T15-19-36-415Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-25T05-36-05-441Z"
         type="audio/mpeg" 
-        length="201984"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-24T15-19-36-415Z</guid>
-      <pubDate>Fri, 24 Jul 2026 15:19:36 GMT</pubDate>
+        length="220224"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-25T05-36-05-441Z</guid>
+      <pubDate>Sat, 25 Jul 2026 05:36:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
