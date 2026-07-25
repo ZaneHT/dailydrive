@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Saturday, July 25th, 2026, here in Sydney, and what...</title>
-      <description>Good afternoon, Naresh! It's Saturday, July 25th, 2026, here in Sydney, and what a clear, crisp afternoon we're having, currently sitting at a lovely 18°C. As the day winds down, let's look forward to a relaxing evening, maybe a delicious home-cooked meal, or just kicking back with a good book. Did you know that the longest recorded flight of a chicken is 13 seconds? Keep that in your back pocket for your next trivia night! For now, have a fantastic evening, enjoy your playlist, and I'll catch you back here tomorrow for more Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Sunday, July 26th, 2026! It's a crisp start to y...</title>
+      <description>Good morning, Naresh, and happy Sunday, July 26th, 2026! It's a crisp start to your day here in Sydney with clear skies and a refreshing 11°C, though it feels a little cooler at 8°C as you step outside. Get ready for a beautiful winter's day, with temperatures climbing to a pleasant 17°C later on and a barely-there 7% chance of rain, so no need for the umbrella today. Remember, every new day is a blank canvas, a chance to paint your masterpiece, so let's make this Sunday vibrant and count every moment. Have a fantastic day, Naresh, and make it truly yours!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-25T05-36-05-441Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-25T14-53-53-804Z"
         type="audio/mpeg" 
-        length="220224"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-25T05-36-05-441Z</guid>
-      <pubDate>Sat, 25 Jul 2026 05:36:05 GMT</pubDate>
+        length="250752"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-25T14-53-53-804Z</guid>
+      <pubDate>Sat, 25 Jul 2026 14:53:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
