@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Sunday, July 26th, 2026! It's a crisp start to y...</title>
-      <description>Good morning, Naresh, and happy Sunday, July 26th, 2026! It's a crisp start to your day here in Sydney with clear skies and a refreshing 11°C, though it feels a little cooler at 8°C as you step outside. Get ready for a beautiful winter's day, with temperatures climbing to a pleasant 17°C later on and a barely-there 7% chance of rain, so no need for the umbrella today. Remember, every new day is a blank canvas, a chance to paint your masterpiece, so let's make this Sunday vibrant and count every moment. Have a fantastic day, Naresh, and make it truly yours!</description>
+      <title>Good afternoon, Naresh! It's Sunday, July 26th, 2026, here in Sydney, and it's a...</title>
+      <description>Good afternoon, Naresh! It's Sunday, July 26th, 2026, here in Sydney, and it's a beautifully clear 16 degrees Celsius, feeling just a touch cooler at 14 – perfect conditions for winding down your weekend. As the afternoon gracefully turns into evening, let's look forward to a relaxing night ahead, maybe a delicious dinner or simply putting your feet up after a busy Sunday. Remember, even the longest week starts with a single step, so make sure that first step into tomorrow is from a well-rested place. Stay safe on any evening drives, enjoy your night, and I’ll be back with you tomorrow morning for your Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-25T14-53-53-804Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-26T05-52-06-978Z"
         type="audio/mpeg" 
-        length="250752"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-25T14-53-53-804Z</guid>
-      <pubDate>Sat, 25 Jul 2026 14:53:53 GMT</pubDate>
+        length="244800"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-26T05-52-06-978Z</guid>
+      <pubDate>Sun, 26 Jul 2026 05:52:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
