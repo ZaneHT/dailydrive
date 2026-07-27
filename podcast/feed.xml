@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Monday, July 27th, 2026! It's a crisp start to t...</title>
-      <description>Good morning, Naresh, and happy Monday, July 27th, 2026! It's a crisp start to the week here in Sydney, currently a cool 9 degrees and mainly clear, but don't let that initial chill fool you, we're heading for a beautiful winter's day, topping out at 17, and with only an 8% chance of rain, it's looking perfectly dry. As you kick off your week, remember that every new day is a blank canvas, a fresh opportunity to paint something amazing – so grab your metaphorical brush and let's create a masterpiece today! Make it count, Naresh, have a truly fantastic day ahead!</description>
+      <title>Good afternoon, Naresh, and welcome to your Daily Drive on this beautiful Monday...</title>
+      <description>Good afternoon, Naresh, and welcome to your Daily Drive on this beautiful Monday, July 27th, 2026 here in Sydney! It's a lovely 16°C and mainly clear out there as you start to wind down your day, feeling a comfortable 15°C, making for a perfect, dry evening commute home. As you navigate the afternoon rush, remember that even a small act of kindness can create a ripple effect, brightening not just your day but someone else's too. So, drive safe, enjoy your evening, and I'll catch you right back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-26T14-55-42-752Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-27T06-19-37-292Z"
         type="audio/mpeg" 
-        length="230976"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-26T14-55-42-752Z</guid>
-      <pubDate>Sun, 26 Jul 2026 14:55:42 GMT</pubDate>
+        length="219456"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-27T06-19-37-292Z</guid>
+      <pubDate>Mon, 27 Jul 2026 06:19:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
