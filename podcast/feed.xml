@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon Naresh, and happy Friday, July 31st, 2026! Hope you’ve had a wond...</title>
-      <description>Good afternoon Naresh, and happy Friday, July 31st, 2026! Hope you’ve had a wonderful day so far with these clear skies and a comfortable 14°C out there, though it feels a little cooler with that breeze. As you start winding down for the evening, perhaps dreaming of a delicious dinner or some well-deserved relaxation, remember that even a small act of kindness can brighten someone's entire day – maybe even your own. So, have a fantastic evening, enjoy a safe and dry commute home, get some good rest, and we'll catch you right back here tomorrow!</description>
+      <title>Good morning, Sydney! It’s Saturday, August 1st, 2026, and what a beautiful star...</title>
+      <description>Good morning, Sydney! It’s Saturday, August 1st, 2026, and what a beautiful start to your weekend with clear skies and a crisp 9°C out there right now, feeling like a fresh 7°C. Get ready for a lovely day ahead, warming up to a pleasant 16°C later on, and with only a 39% chance of rain, it's looking dry and perfect for whatever adventures you have planned. Remember, the best way to predict the future is to create it, so let's make today count and fill it with positive energy and purpose. Have an absolutely fantastic day, Daily Drivers!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-31T05-57-33-099Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-07-31T15-53-07-126Z"
         type="audio/mpeg" 
-        length="221184"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-07-31T05-57-33-099Z</guid>
-      <pubDate>Fri, 31 Jul 2026 05:57:33 GMT</pubDate>
+        length="231744"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-07-31T15-53-07-126Z</guid>
+      <pubDate>Fri, 31 Jul 2026 15:53:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
