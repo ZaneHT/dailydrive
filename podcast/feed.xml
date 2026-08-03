@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Monday, August 3rd, 2026, here in Sydney, and what ...</title>
-      <description>Good afternoon, Naresh! It's Monday, August 3rd, 2026, here in Sydney, and what a lovely partly cloudy afternoon we're having at a comfortable 19 degrees. As you wind down your day, I hope it's been a productive one, and you're looking forward to a relaxing evening ahead – just a heads up, there's a 67% chance of rain for your commute, so definitely grab that umbrella! Remember, a smooth sea never made a skilled sailor, so embrace the little challenges and enjoy your journey home. Drive safe, have a wonderful evening, and we'll catch you back here tomorrow for more Daily Drive.</description>
+      <title>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, August 4t...</title>
+      <description>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, August 4th, 2026, here in Sydney! It's a crisp 9°C with clear skies feeling like a fresh 7°C out there right now, promising a beautiful dry day ahead with temperatures reaching a comfortable 15°C later. As you kick off your day, remember that every sunrise brings a chance to make yesterday better; so embrace the new possibilities and let your actions inspire others. Here's to making today truly count – have a fantastic one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-03T06-11-56-841Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-03T16-13-37-453Z"
         type="audio/mpeg" 
-        length="229632"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-03T06-11-56-841Z</guid>
-      <pubDate>Mon, 03 Aug 2026 06:11:56 GMT</pubDate>
+        length="211008"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-03T16-13-37-453Z</guid>
+      <pubDate>Mon, 03 Aug 2026 16:13:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
