@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, August 4t...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, August 4th, 2026, here in Sydney! It's a crisp 9°C with clear skies feeling like a fresh 7°C out there right now, promising a beautiful dry day ahead with temperatures reaching a comfortable 15°C later. As you kick off your day, remember that every sunrise brings a chance to make yesterday better; so embrace the new possibilities and let your actions inspire others. Here's to making today truly count – have a fantastic one!</description>
+      <title>Good afternoon, Naresh, and happy Tuesday, August 4th, 2026, from a beautiful 16...</title>
+      <description>Good afternoon, Naresh, and happy Tuesday, August 4th, 2026, from a beautiful 16-degree Sydney with clear skies – what a perfect way to wrap up the workday! As you wind down, let's keep that calm energy going into a relaxed evening, making your commute home as smooth and stress-free as possible. Remember, a smooth sea never made a skilled sailor, so let's navigate the rest of this day with grace and a smile. Drive safe, enjoy your evening, recharge, and I'll catch you back here tomorrow for another Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-03T16-13-37-453Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-04T05-40-25-415Z"
         type="audio/mpeg" 
-        length="211008"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-03T16-13-37-453Z</guid>
-      <pubDate>Mon, 03 Aug 2026 16:13:37 GMT</pubDate>
+        length="209280"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-04T05-40-25-415Z</guid>
+      <pubDate>Tue, 04 Aug 2026 05:40:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
