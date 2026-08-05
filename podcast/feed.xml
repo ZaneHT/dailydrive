@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Wednesday, August 5th, 2026, here in Sydney, and wi...</title>
-      <description>Good afternoon, Naresh! It's Wednesday, August 5th, 2026, here in Sydney, and with clear skies and a crisp 15°C outside, it feels like a perfect afternoon to start winding down. As the day begins its gentle fade, I hope you're feeling a sense of accomplishment and looking forward to a relaxing evening ahead. Remember, every sunset is an opportunity to reset and prepare for a brand new dawn. So, crank up the tunes, enjoy a safe commute home with those dry conditions and a steady 17 km/h breeze, and I'll catch you back here tomorrow for more Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Thursday, August 6th, 2026, from a partly cloudy...</title>
+      <description>Good morning, Naresh, and happy Thursday, August 6th, 2026, from a partly cloudy Sydney where it's currently a crisp 8°C, feeling a bit like 5°C out there. You've got a fantastic day ahead, with temperatures reaching a pleasant 17°C, so get ready to soak up some sunshine and make the most of it. Remember, "The best way to predict the future is to create it," so let's power through this morning and build an amazing day, one great song at a time! Have a truly brilliant day, Naresh, and make every moment count.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-05T05-38-04-998Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-05T15-53-30-021Z"
         type="audio/mpeg" 
-        length="236544"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-05T05-38-04-998Z</guid>
-      <pubDate>Wed, 05 Aug 2026 05:38:04 GMT</pubDate>
+        length="217536"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-05T15-53-30-021Z</guid>
+      <pubDate>Wed, 05 Aug 2026 15:53:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
