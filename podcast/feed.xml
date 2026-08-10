@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Monday, August 10th, 2026! It's a crisp 13 degre...</title>
-      <description>Good morning, Naresh, and happy Monday, August 10th, 2026! It's a crisp 13 degrees out there with a light drizzle to greet us, so let's power through this new week with that inspiring Sydney energy. Today promises a cool 11 to 16 degrees, with a 100% chance of rain, so definitely grab that umbrella before you head out. Remember, every Monday is a fresh canvas, a chance to paint a masterpiece of the week ahead, so let's make today count and have an absolutely brilliant one!</description>
+      <title>Good afternoon, Naresh! It's Monday, August 10th, 2026, here in Sydney, and with...</title>
+      <description>Good afternoon, Naresh! It's Monday, August 10th, 2026, here in Sydney, and with a current temperature of 15°C and that persistent light drizzle, it definitely feels like a day to wrap up warm. As the workday winds down, let's look forward to a cozy evening ahead – maybe some good food, a bit of relaxation, and recharging those batteries after a busy start to the week. Did you know that August 10th is also National S'mores Day in the US? A fun excuse to treat yourself to something sweet, perhaps! Stay safe on those wet roads for the commute home, have a wonderful evening, and we'll catch up again tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-09T14-23-36-691Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-10T04-23-13-513Z"
         type="audio/mpeg" 
-        length="196800"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-09T14-23-36-691Z</guid>
-      <pubDate>Sun, 09 Aug 2026 14:23:36 GMT</pubDate>
+        length="247488"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-10T04-23-13-513Z</guid>
+      <pubDate>Mon, 10 Aug 2026 04:23:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
