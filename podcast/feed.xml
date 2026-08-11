@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Tuesday, August 11th, 2026 here in Sydney, and what...</title>
-      <description>Good afternoon, Naresh! It's Tuesday, August 11th, 2026 here in Sydney, and what a beautiful afternoon it is, with clear skies and a comfortable 18°C gracing us as the day winds down. As you ease into the afternoon, perhaps finishing off your workday or simply enjoying the clear conditions, I hope you're looking forward to a relaxing evening ahead, knowing your commute home will be a dry and breezy one with that 0% chance of rain and a gentle 13 km/h wind. Did you know the average person spends about six months of their life waiting for red lights to turn green? So let's make the most of every moment! Drive safe, enjoy a wonderful evening, and I'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Wednesday, August 12th, 2026! It's a crisp start...</title>
+      <description>Good morning, Naresh, and happy Wednesday, August 12th, 2026! It's a crisp start to the day here in Sydney with clear skies and a cool 10°C, feeling a touch cooler at 8°C, so maybe an extra layer for that first cuppa. Today, let's remember that the smallest positive thought in the morning can change the entire course of your day. With a high of 18°C on the cards and a low chance of rain at 47% – looking pretty dry – go out there, embrace the day, and make every moment count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-11T04-13-12-197Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-11T14-49-10-031Z"
         type="audio/mpeg" 
-        length="279936"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-11T04-13-12-197Z</guid>
-      <pubDate>Tue, 11 Aug 2026 04:13:12 GMT</pubDate>
+        length="209856"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-11T14-49-10-031Z</guid>
+      <pubDate>Tue, 11 Aug 2026 14:49:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
