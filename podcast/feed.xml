@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive on this Thursday, August 1...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive on this Thursday, August 13th, 2026, here in sunny Sydney! It's a crisp 12 degrees out there right now under clear skies, feeling a touch cooler, but it's shaping up to be a beautiful day ahead, with temperatures reaching a pleasant 18. As you kickstart your day, remember that every new morning brings with it a fresh set of opportunities, like a blank page waiting for your story. So, let's make today count, have a fantastic one, and enjoy your drive!</description>
+      <title>Good afternoon Naresh, and happy Thursday, August 13th, 2026! It's a beautiful 1...</title>
+      <description>Good afternoon Naresh, and happy Thursday, August 13th, 2026! It's a beautiful 18°C here in Sydney with clear skies, making for a truly lovely afternoon as we start to wind things down. As you finish up your day and hit the road, remember that every journey, big or small, takes you closer to where you're meant to be, so drive safe and enjoy the smooth ride home. Here's a little thought for the day: Did you know the human brain processes information faster than a speeding bullet? Amazing what's going on in there! So, enjoy your evening, get some well-deserved rest, and we'll catch up again tomorrow for another Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-12T14-49-19-946Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-13T04-45-29-502Z"
         type="audio/mpeg" 
-        length="200448"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-12T14-49-19-946Z</guid>
-      <pubDate>Wed, 12 Aug 2026 14:49:19 GMT</pubDate>
+        length="253440"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-13T04-45-29-502Z</guid>
+      <pubDate>Thu, 13 Aug 2026 04:45:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
