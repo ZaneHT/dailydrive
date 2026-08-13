@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon Naresh, and happy Thursday, August 13th, 2026! It's a beautiful 1...</title>
-      <description>Good afternoon Naresh, and happy Thursday, August 13th, 2026! It's a beautiful 18°C here in Sydney with clear skies, making for a truly lovely afternoon as we start to wind things down. As you finish up your day and hit the road, remember that every journey, big or small, takes you closer to where you're meant to be, so drive safe and enjoy the smooth ride home. Here's a little thought for the day: Did you know the human brain processes information faster than a speeding bullet? Amazing what's going on in there! So, enjoy your evening, get some well-deserved rest, and we'll catch up again tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Friday, August 14th, 2026! It's a crisp start to...</title>
+      <description>Good morning, Naresh, and happy Friday, August 14th, 2026! It's a crisp start to your morning here in Sydney with clear skies and a refreshing 11°C, though it feels a little cooler at 7°C, so maybe an extra layer if you're heading out early. We're looking at a beautiful day ahead, with temperatures reaching a pleasant 17°C and only a 13% chance of rain, so no umbrella needed today – just sunshine and good vibes as we kick off the weekend! As you drive into this fantastic Friday, remember the wisdom of Lao Tzu: "A journey of a thousand miles begins with a single step." So, take that first step with purpose today, make it count, and have an absolutely brilliant day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-13T04-45-29-502Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-13T14-49-27-778Z"
         type="audio/mpeg" 
-        length="253440"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-13T04-45-29-502Z</guid>
-      <pubDate>Thu, 13 Aug 2026 04:45:29 GMT</pubDate>
+        length="282240"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-13T14-49-27-778Z</guid>
+      <pubDate>Thu, 13 Aug 2026 14:49:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
