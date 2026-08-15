@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and happy Saturday, August 15th, 2026! Hope you're havin...</title>
-      <description>Good afternoon, Naresh, and happy Saturday, August 15th, 2026! Hope you're having a wonderful day so far, enjoying this mainly clear 16°C in Sydney – feels a bit cooler at 14°C, doesn't it? As you wind down your afternoon and look forward to a relaxing evening, just a heads-up that there's a 98% chance of rain for your commute home, so definitely grab that umbrella! Remember, even a small act of kindness can brighten someone's entire day – including your own. Drive safely, Naresh, enjoy your well-deserved evening, and we'll catch you right back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Sunday, August 16th, 2026! It's a crisp 12°C out...</title>
+      <description>Good morning, Naresh, and happy Sunday, August 16th, 2026! It's a crisp 12°C out there right now, mainly clear and feeling a touch cooler at 11°C, a perfect morning to ease into your Daily Drive playlist. With a high of 17°C later and a 100% chance of rain, definitely grab that umbrella before you head out today – remember, every drop of rain is just the earth refreshing itself, a reminder that new beginnings are always possible. So, let your playlist inspire you, make the most of this beautiful Sunday, and have a truly wonderful day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-15T03-31-40-301Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-15T14-12-01-878Z"
         type="audio/mpeg" 
-        length="245184"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-15T03-31-40-301Z</guid>
-      <pubDate>Sat, 15 Aug 2026 03:31:40 GMT</pubDate>
+        length="236352"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-15T14-12-01-878Z</guid>
+      <pubDate>Sat, 15 Aug 2026 14:12:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
