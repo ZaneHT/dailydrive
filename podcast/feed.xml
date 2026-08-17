@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh! It's Monday, August 17th, 2026, here in Sydney, and it's a...</title>
-      <description>Good morning, Naresh! It's Monday, August 17th, 2026, here in Sydney, and it's a cool 12°C with a light drizzle starting our day. While it might be a bit wet with a 100% chance of rain today, remember that every new day brings a fresh start and a chance to make something wonderful happen, so grab that umbrella before you head out! Did you know that the word "Monday" comes from Old English and literally means "moon day"? So let's harness that lunar energy for a powerful week ahead. Make it a brilliant day, Naresh, and let's get those good vibes rolling!</description>
+      <title>Good afternoon, Naresh, and happy Monday, August 17th, 2026, here in Sydney! It'...</title>
+      <description>Good afternoon, Naresh, and happy Monday, August 17th, 2026, here in Sydney! It's a rather overcast 16°C out there, feeling a touch cooler at 15°, so definitely stay cozy. As we start winding down this Monday, I hope your day has been productive, and you're looking forward to a relaxing evening ahead, especially since there's a 100% chance of rain for your commute home, so remember that umbrella! On a lighter note, did you know the shortest complete sentence in the English language is "Go."? Have a safe drive home, Naresh, enjoy your evening, get some good rest, and we'll catch you back here tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-16T14-12-40-306Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-17T03-42-07-829Z"
         type="audio/mpeg" 
-        length="225216"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-16T14-12-40-306Z</guid>
-      <pubDate>Sun, 16 Aug 2026 14:12:40 GMT</pubDate>
+        length="256704"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-17T03-42-07-829Z</guid>
+      <pubDate>Mon, 17 Aug 2026 03:42:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
