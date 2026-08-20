@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Thursday, August 20th, 2026! It's a crisp and cl...</title>
-      <description>Good morning, Naresh, and happy Thursday, August 20th, 2026! It's a crisp and clear 13°C start here in Sydney, feeling like a cool 12°C, and what a beautiful day we have shaping up ahead. With a high of 21°C and not a drop of rain in sight, today is all about embracing new opportunities and making the most of every moment. Remember, the best way to predict the future is to create it, so let's power through this playlist and make today truly shine!</description>
+      <title>Good afternoon, Naresh! It's Thursday, August 20th, 2026, here in Sydney, and wi...</title>
+      <description>Good afternoon, Naresh! It's Thursday, August 20th, 2026, here in Sydney, and with a comfortable 21°C under overcast skies, it feels like a perfect afternoon to start winding down. As the day begins to fade, let's keep that positive energy going, tackle those last few tasks, and look forward to a relaxing evening ahead. Remember, as the saying goes, "The best way to predict the future is to create it," so let's craft a wonderful evening for ourselves. Drive safe on your commute home, enjoy every moment of your evening, and I'll catch you right back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-19T14-22-06-421Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-20T03-39-15-199Z"
         type="audio/mpeg" 
-        length="198720"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-19T14-22-06-421Z</guid>
-      <pubDate>Wed, 19 Aug 2026 14:22:06 GMT</pubDate>
+        length="234432"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-20T03-39-15-199Z</guid>
+      <pubDate>Thu, 20 Aug 2026 03:39:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
