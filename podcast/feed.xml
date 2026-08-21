@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh! It's Friday, August 21st, 2026 here in Sydney, and what ...</title>
-      <description>Good afternoon, Naresh! It's Friday, August 21st, 2026 here in Sydney, and what a beautiful day it's been, sitting at a lovely 21 degrees and mainly clear right now. As we cruise into the afternoon, it's the perfect time to start winding down, finish strong, and look forward to a fantastic evening ahead. And remember, as you head home, with a 96% chance of rain, grabbing that umbrella will definitely be a smart move, so you can stay dry and enjoy a wonderful evening, recharge, and I'll catch you back here tomorrow!</description>
+      <title>Good morning, Sydney! It's Saturday, August 22nd, 2026, and what a beautiful sta...</title>
+      <description>Good morning, Sydney! It's Saturday, August 22nd, 2026, and what a beautiful start we have with those clear skies and a crisp 13 degrees Celsius feeling like 12. Get ready for a lovely day ahead, with temperatures climbing to a pleasant 20 degrees, perfect for making those weekend plans a reality. Remember, every sunrise is an invitation to begin again and create something wonderful. So go out there, make the most of this beautiful Saturday, and have an absolutely fantastic day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-21T03-42-49-510Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-21T14-23-17-516Z"
         type="audio/mpeg" 
-        length="209664"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-21T03-42-49-510Z</guid>
-      <pubDate>Fri, 21 Aug 2026 03:42:49 GMT</pubDate>
+        length="196224"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-21T14-23-17-516Z</guid>
+      <pubDate>Fri, 21 Aug 2026 14:23:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
