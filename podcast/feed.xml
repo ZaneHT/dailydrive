@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It's Saturday, August 22nd, 2026, and what a beautiful sta...</title>
-      <description>Good morning, Sydney! It's Saturday, August 22nd, 2026, and what a beautiful start we have with those clear skies and a crisp 13 degrees Celsius feeling like 12. Get ready for a lovely day ahead, with temperatures climbing to a pleasant 20 degrees, perfect for making those weekend plans a reality. Remember, every sunrise is an invitation to begin again and create something wonderful. So go out there, make the most of this beautiful Saturday, and have an absolutely fantastic day!</description>
+      <title>Good afternoon, Naresh! It's Saturday, August 22nd, 2026, here in beautiful Sydn...</title>
+      <description>Good afternoon, Naresh! It's Saturday, August 22nd, 2026, here in beautiful Sydney, and with clear skies and a comfortable 20°C on the thermostat, it’s shaping up to be a perfect afternoon. As we gently ease out of the day, let's keep that relaxed vibe going, ensuring a smooth finish and a lovely transition into your evening plans. Speaking of evenings, did you know that the term "weekend" only became widely used in the early 20th century, a reflection of changing work patterns? So, let's make the most of this well-earned one; have a wonderful, restful evening, drive safe if you're heading out, and we'll catch you right back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-21T14-23-17-516Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-22T03-34-49-886Z"
         type="audio/mpeg" 
-        length="196224"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-21T14-23-17-516Z</guid>
-      <pubDate>Fri, 21 Aug 2026 14:23:17 GMT</pubDate>
+        length="258240"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-22T03-34-49-886Z</guid>
+      <pubDate>Sat, 22 Aug 2026 03:34:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
