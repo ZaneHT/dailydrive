@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Monday, August 24th, 2026! It's a crisp and clea...</title>
-      <description>Good morning, Naresh, and happy Monday, August 24th, 2026! It's a crisp and clear 14°C right now, feeling like 13°C, so you'll want a light jacket to start your day. We're looking at a beautiful Sydney day ahead, topping out at a pleasant 20°C with barely a breath of wind at 12 km/h and just a 4% chance of rain, so no umbrella needed today! Remember, the best way to predict the future is to create it, so let's make this Monday truly magnificent. Have a fantastic day, Naresh – go out there and make it count!</description>
+      <title>Good afternoon, Naresh! It's Monday, August 24th, 2026, and what a glorious afte...</title>
+      <description>Good afternoon, Naresh! It's Monday, August 24th, 2026, and what a glorious afternoon we have here in Sydney, currently sitting at a comfortable 20°C under clear blue skies. As the day winds down and you start thinking about that drive home, let's make sure you finish strong, soak in the last bits of sunshine, and perhaps even plan a relaxing evening ahead. Here's a little something to ponder: did you know that the shortest recorded war in history lasted only 38 to 45 minutes? So, as you head out, have a wonderful, safe commute home, enjoy a fantastic evening, and recharge for another great day tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-23T14-12-39-192Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-24T03-46-15-120Z"
         type="audio/mpeg" 
-        length="233088"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-23T14-12-39-192Z</guid>
-      <pubDate>Sun, 23 Aug 2026 14:12:39 GMT</pubDate>
+        length="249216"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-24T03-46-15-120Z</guid>
+      <pubDate>Mon, 24 Aug 2026 03:46:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
