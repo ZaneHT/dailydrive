@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh! It's Thursday, August 27th, 2026, here in Sydney, and with...</title>
-      <description>Good evening, Naresh! It's Thursday, August 27th, 2026, here in Sydney, and with clear skies and a crisp 12°C, it's feeling quite pleasant out there as the day winds down. Hopefully, your afternoon has been productive, and now it's time to ease into a relaxing evening, though with an 88% chance of rain, you might want to grab that umbrella for your journey home! Remember, "The only way to do great work is to love what you do," so cherish your efforts today. Drive safely, enjoy your evening, recharge, and we’ll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Friday, August 28th, 2026! It's a partly cloudy ...</title>
+      <description>Good morning, Naresh, and happy Friday, August 28th, 2026! It's a partly cloudy start to your day here in Sydney, feeling a crisp 12 degrees as you tune in. As we cruise towards the weekend, remember that every sunrise offers a new chance to write a beautiful story – so let's make today's chapter an amazing one. Get ready to conquer your day with good vibes and even better tunes!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-27T13-24-59-531Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-27T23-20-07-481Z"
         type="audio/mpeg" 
-        length="223296"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-27T13-24-59-531Z</guid>
-      <pubDate>Thu, 27 Aug 2026 13:24:59 GMT</pubDate>
+        length="156864"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-27T23-20-07-481Z</guid>
+      <pubDate>Thu, 27 Aug 2026 23:20:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
