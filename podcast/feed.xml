@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive on this beautiful Saturday...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive on this beautiful Saturday, August 29th, 2026. As the sun dips below the Sydney horizon, it's a pleasant 14°C with clear skies, making for a truly lovely evening ahead. What a perfect way to wind down a Saturday – whether you're heading home after a busy day or just settling in for a relaxing night, I hope your evening is filled with comfort and joy. Remember, even the longest journeys begin with a single step, so take a moment to appreciate how far you've come today. Drive safe, enjoy every moment of your evening, and I'll catch you right back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Sunday, August 30th, 2026, here in Sydney! It's ...</title>
+      <description>Good morning, Naresh, and happy Sunday, August 30th, 2026, here in Sydney! It's a cool 10 degrees and overcast right now, but we're looking at a lovely, dry day ahead, warming up to a pleasant 18 degrees with just a gentle breeze. Remember, every new day is a fresh start, a blank canvas to create something wonderful, so let's embrace the possibilities that this beautiful Sunday brings. Make it count, have a truly fantastic day, and enjoy your Daily Drive!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-29T09-36-09-104Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-08-29T17-26-16-201Z"
         type="audio/mpeg" 
-        length="247872"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-08-29T09-36-09-104Z</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:09 GMT</pubDate>
+        length="194304"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-08-29T17-26-16-201Z</guid>
+      <pubDate>Sat, 29 Aug 2026 17:26:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
