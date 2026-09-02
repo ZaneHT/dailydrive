@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good afternoon, Naresh, and welcome to your Daily Drive on this beautiful Wednes...</title>
-      <description>Good afternoon, Naresh, and welcome to your Daily Drive on this beautiful Wednesday, September 2nd, 2026! It’s currently a lovely 24°C out there, feeling just a touch cooler at 22°C with mainly clear skies, perfect for a wind-down. As you navigate the afternoon and evening, let's look forward to a relaxing evening ahead – perhaps a delicious meal, a good book, or just some quiet time to recharge. Did you know that the shortest recorded war in history lasted only 38 to 45 minutes? It was between Britain and Zanzibar on August 27, 1896! So, settle in, enjoy the playlist, have a safe and smooth commute home, and here's to a wonderful evening and a restful night – we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and welcome to your Daily Drive on this Thursday, Septembe...</title>
+      <description>Good morning, Naresh, and welcome to your Daily Drive on this Thursday, September 3rd, 2026, here in beautiful Sydney! It's a mild 19 degrees Celsius out there right now under an overcast sky, feeling a little cooler, but it's shaping up to be a pretty lovely day, hitting a top of 25 degrees, and with only a 16% chance of rain, you can leave that umbrella at home. As you kick off your day, remember the wisdom of Lao Tzu: "A journey of a thousand miles begins with a single step," so let's make today's steps count! Have an absolutely fantastic day, Naresh, and make it a brilliant one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-02T07-28-27-318Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-02T17-29-16-977Z"
         type="audio/mpeg" 
-        length="307584"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-02T07-28-27-318Z</guid>
-      <pubDate>Wed, 02 Sep 2026 07:28:27 GMT</pubDate>
+        length="234432"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-02T17-29-16-977Z</guid>
+      <pubDate>Wed, 02 Sep 2026 17:29:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
