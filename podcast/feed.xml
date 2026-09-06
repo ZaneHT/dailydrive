@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning Naresh, and happy Sunday, September 6th, 2026! Right now it's a cle...</title>
-      <description>Good morning Naresh, and happy Sunday, September 6th, 2026! Right now it's a clear and comfortable 18°C here in Sydney, so let that crisp morning air be a refreshing start to your day. With a beautiful top of 22°C on the cards and virtually no chance of rain, today is absolutely perfect for making some fantastic memories – perhaps a leisurely brunch or a walk by the water. Remember, every day is a chance to reset and create something wonderful, so let's make today count. Have an absolutely brilliant day, Naresh!</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive on this lovely Sunday, Sep...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive on this lovely Sunday, September 6th, 2026, here in Sydney, where it's a pleasant 18°C under clear skies right now. As the day gently winds down, I hope you’ve had a fantastic weekend and are looking forward to a relaxing evening ahead. Remember, a Sunday well spent brings a week of content, so make sure to take some time for yourself tonight. Drive safe, enjoy every moment of your evening, and we'll catch you back here tomorrow.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-05T16-22-15-004Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-06T07-27-34-277Z"
         type="audio/mpeg" 
-        length="218304"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-05T16-22-15-004Z</guid>
-      <pubDate>Sat, 05 Sep 2026 16:22:15 GMT</pubDate>
+        length="197760"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-06T07-27-34-277Z</guid>
+      <pubDate>Sun, 06 Sep 2026 07:27:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
