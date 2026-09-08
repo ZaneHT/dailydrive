@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, September...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive on this Tuesday, September 8th, 2026! It's a crisp 13°C out there right now under mainly clear skies, definitely feeling like a 10°C, so grab that morning brew! Today in Sydney, we're looking at a top of 17°C, and with only a 48% chance of rain, it looks like a dry one, so no need for the brolly today. Remember, every sunrise is an invitation to brighten someone's day, including your own, so let's make today count and have an absolutely fantastic one!</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive this Tuesday, September 8t...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive this Tuesday, September 8th, 2026! Right now it's a clear 16 degrees Celsius in Sydney, feeling just a touch cooler at 14, and while it's been a lovely day with a high of 17, there's an 80% chance of rain for your commute home, so definitely grab that umbrella! As you wind down, remember this: the best way to predict the future is to create it, so let's make this evening a great one, full of good food, good company, and some well-deserved rest. Drive safe, enjoy your evening, and we'll catch you back here tomorrow, recharged and ready to go!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-07T18-28-01-600Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-08T07-37-09-719Z"
         type="audio/mpeg" 
-        length="226752"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-07T18-28-01-600Z</guid>
-      <pubDate>Mon, 07 Sep 2026 18:28:01 GMT</pubDate>
+        length="240768"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-08T07-37-09-719Z</guid>
+      <pubDate>Tue, 08 Sep 2026 07:37:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
