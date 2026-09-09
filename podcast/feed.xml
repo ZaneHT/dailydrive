@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Wednesday, September 9th, 2026 here in Sydney! T...</title>
-      <description>Good morning, Naresh, and happy Wednesday, September 9th, 2026 here in Sydney! The city's waking up to a crisp 11°C under clear skies, feeling like a nippy 9°C right now. Get ready for a beautiful spring day, warming up to a pleasant 19°C later on, and with only a 21% chance of rain, it’s looking beautifully dry for whatever you have planned. Did you know the average human brain generates enough electricity to power a small light bulb? So, go ahead and light up your world today; make it a brilliant one!</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive for Wednesday, September 9...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive for Wednesday, September 9th, 2026, here in Sydney! It's currently a partly cloudy 15°C out there, feeling a bit brisk at 10°C, perfect for winding down after a busy day as we look towards a relaxing evening. With a 53% chance of rain for the commute home, you might want to grab that umbrella before you head out, and remember that even the longest journey begins with a single step, so let's make this last leg of your day a smooth one. Drive safe, enjoy your evening, and we'll catch you back here tomorrow for another Daily Drive!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-08T17-39-03-741Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-09T07-42-53-531Z"
         type="audio/mpeg" 
-        length="223872"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-08T17-39-03-741Z</guid>
-      <pubDate>Tue, 08 Sep 2026 17:39:03 GMT</pubDate>
+        length="239040"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-09T07-42-53-531Z</guid>
+      <pubDate>Wed, 09 Sep 2026 07:42:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
