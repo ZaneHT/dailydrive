@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening Naresh, and welcome to your Daily Drive on this lovely Friday, Sept...</title>
-      <description>Good evening Naresh, and welcome to your Daily Drive on this lovely Friday, September 11th, 2026! It's currently a crisp 16 degrees with clear skies here in Sydney, perfect for winding down after the week. As you hit the road, remember that every journey, big or small, starts with that first step, or in your case, that first turn of the key, so enjoy the transition from work to a relaxing evening. Wishing you a safe and smooth commute home, Naresh, have a truly wonderful evening, rest up, and we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Saturday, September 12th, 2026! It's a crisp and...</title>
+      <description>Good morning, Naresh, and happy Saturday, September 12th, 2026! It's a crisp and clear 11 degrees out there right now, feeling like a cool 10, perfect for easing into your weekend. Today in Sydney, we're looking at a beautiful climb to a top of 20 degrees with absolutely no rain in sight, so get ready to soak up some sunshine and make the most of this gorgeous spring day. Remember, the best way to predict the future is to create it, so let's make today an amazing one – have a truly fantastic day, Naresh!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-11T07-37-45-911Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-11T17-24-19-551Z"
         type="audio/mpeg" 
-        length="213504"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-11T07-37-45-911Z</guid>
-      <pubDate>Fri, 11 Sep 2026 07:37:45 GMT</pubDate>
+        length="203712"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-11T17-24-19-551Z</guid>
+      <pubDate>Fri, 11 Sep 2026 17:24:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
