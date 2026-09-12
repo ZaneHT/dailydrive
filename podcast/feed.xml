@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening Naresh, and welcome to your Daily Drive on this lovely Saturday, Se...</title>
-      <description>Good evening Naresh, and welcome to your Daily Drive on this lovely Saturday, September 12th, 2026! It's currently a clear and pleasant 17°C here in Sydney, feeling just a touch cooler at 16°C, making for a perfect end to what I hope has been a fantastic day, with those beautiful clear skies set to continue right into your evening. As you wind down, remember that the best way to predict the future is to create it, so let's make this evening one for the books! Enjoy your night, recharge, and I'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Sunday, September 13th, 2026! It's a crisp and c...</title>
+      <description>Good morning, Naresh, and happy Sunday, September 13th, 2026! It's a crisp and clear 13 degrees in Sydney right now, feeling absolutely perfect as we ease into this beautiful day. With a top of 21 degrees ahead and not a drop of rain in sight, today is a blank canvas for you to paint with joy and purpose, remembering that every new day offers a chance to begin again, stronger and wiser. So, let’s make it a truly spectacular one, full of good vibes and great moments!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-12T07-30-11-183Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-12T16-36-15-816Z"
         type="audio/mpeg" 
-        length="223488"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-12T07-30-11-183Z</guid>
-      <pubDate>Sat, 12 Sep 2026 07:30:11 GMT</pubDate>
+        length="194304"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-12T16-36-15-816Z</guid>
+      <pubDate>Sat, 12 Sep 2026 16:36:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
