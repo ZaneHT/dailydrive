@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh! It's Wednesday, September 16th, 2026 here in Sydney, and a...</title>
-      <description>Good evening, Naresh! It's Wednesday, September 16th, 2026 here in Sydney, and as we wind down the day, it's a crisp 14°C with clear skies, though it feels a little cooler with that breeze. Hope you've had a productive day, and now it's time to ease into a fantastic evening, perhaps with a delicious dinner and some well-deserved relaxation. Did you know that the word "podcast" is actually a portmanteau of "iPod" and "broadcast"? Pretty neat! Wishing you a safe and smooth journey home if you're still on the move, a wonderful evening ahead, and we'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Thursday, September 17th, 2026! It's a crisp 11°...</title>
+      <description>Good morning, Naresh, and happy Thursday, September 17th, 2026! It's a crisp 11°C with overcast skies here in Sydney as we kick off our Daily Drive. Today's a fresh canvas, a chance to paint your day with purpose and positivity, and with no rain on the cards, you can leave that umbrella behind! Remember, a journey of a thousand miles begins with a single step, so let's make that first step count and have an absolutely brilliant day!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-16T08-07-47-930Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-16T17-49-35-647Z"
         type="audio/mpeg" 
-        length="238272"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-16T08-07-47-930Z</guid>
-      <pubDate>Wed, 16 Sep 2026 08:07:47 GMT</pubDate>
+        length="184512"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-16T17-49-35-647Z</guid>
+      <pubDate>Wed, 16 Sep 2026 17:49:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
