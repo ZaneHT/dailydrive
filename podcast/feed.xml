@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Friday, September 18th, 2026! It's a crisp start...</title>
-      <description>Good morning, Naresh, and happy Friday, September 18th, 2026! It's a crisp start here in Sydney, currently a clear 10 degrees Celsius, but feeling a touch cooler at 8, so grab a light layer as you step out. Today promises to be absolutely glorious, with the mercury climbing to a delightful 21 degrees and not a drop of rain in sight, making it the perfect day to chase those weekend goals. Remember, "the only way to do great work is to love what you do," so let's make today count and power into an amazing day!</description>
+      <title>Good evening, Naresh! It's Friday, September 18th, 2026, here in Sydney, and wha...</title>
+      <description>Good evening, Naresh! It's Friday, September 18th, 2026, here in Sydney, and what a lovely afternoon it's turned out to be, currently a comfortable 19 degrees with mainly clear skies, perfect for winding down. As the day draws to a close, let's look forward to a relaxing evening ahead, knowing that with a zero percent chance of rain and just a gentle 11 km/h breeze, your commute home will be smooth sailing. Remember, as the philosopher Lao Tzu once said, "A journey of a thousand miles begins with a single step" – so take that step towards a wonderful evening, recharge, and I'll catch you back here for tomorrow's Daily Drive!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-17T17-50-10-553Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-18T07-48-35-410Z"
         type="audio/mpeg" 
-        length="208704"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-17T17-50-10-553Z</guid>
-      <pubDate>Thu, 17 Sep 2026 17:50:10 GMT</pubDate>
+        length="250944"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-18T07-48-35-410Z</guid>
+      <pubDate>Fri, 18 Sep 2026 07:48:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
