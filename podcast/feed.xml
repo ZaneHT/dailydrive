@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney, and welcome to your Saturday, September 19th, 2026 Daily D...</title>
-      <description>Good morning, Sydney, and welcome to your Saturday, September 19th, 2026 Daily Drive! It's a crisp 15°C out there right now under partly cloudy skies, feeling more like 11°C, a perfect excuse to snuggle up with your favourite tunes before this beautiful day unfolds. With a fantastic range of 14°C to 27°C and not a drop of rain in sight, today is all about embracing the sunshine and making every moment count. Did you know that the word "Saturday" comes from the Roman god Saturn, often associated with wealth and agriculture? So let's sow some seeds of joy and productivity today, turning every aspiration into an achievement – go out there and make it a truly spectacular day!</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive this Saturday, September 1...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive this Saturday, September 19th, 2026! It's a gorgeous 27 degrees Celsius here in Sydney with clear skies, making for a truly beautiful end to your week. As you wind down, let's look forward to a relaxing evening ahead, perhaps enjoying this lovely weather from a favourite spot. Remember, the shortest distance between two people is a story – so take a moment to share one or simply enjoy the quiet before the new day; have a wonderful evening, drive safely, and we’ll catch you tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-18T17-21-10-308Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-19T07-41-17-150Z"
         type="audio/mpeg" 
-        length="294144"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-18T17-21-10-308Z</guid>
-      <pubDate>Fri, 18 Sep 2026 17:21:10 GMT</pubDate>
+        length="218688"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-19T07-41-17-150Z</guid>
+      <pubDate>Sat, 19 Sep 2026 07:41:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
