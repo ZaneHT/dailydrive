@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Tuesday, September 22nd, 2026! It's a rather ove...</title>
-      <description>Good morning, Naresh, and happy Tuesday, September 22nd, 2026! It's a rather overcast start to our day here in Sydney, currently sitting at a cool 16°C, but don't let that dampen your spirits – today’s all about making the most of every moment, even if we are only reaching a mild 17°C with a 91% chance of rain, so definitely grab that umbrella before you head out! As the saying goes, "The best way to predict the future is to create it," so let's use this fresh start to shape an amazing day. Go out there, Naresh, make today count, and have a truly fantastic one!</description>
+      <title>Good evening, Naresh! It's Tuesday, September 22nd, 2026, here in Sydney, and th...</title>
+      <description>Good evening, Naresh! It's Tuesday, September 22nd, 2026, here in Sydney, and the day is definitely winding down with that persistent drizzle and a cool 16°C out there. As you wrap things up and prepare for your evening, I hope your day has been productive and you're ready to switch gears and enjoy some well-deserved relaxation. Remember, a smooth sea never made a skilled sailor, so embrace the little challenges of the day and let them strengthen your resolve. Stay safe on your commute home, enjoy a wonderful evening recharging, and we'll catch you back here tomorrow for more Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-21T18-57-55-565Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-22T08-06-03-469Z"
         type="audio/mpeg" 
-        length="244800"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-21T18-57-55-565Z</guid>
-      <pubDate>Mon, 21 Sep 2026 18:57:55 GMT</pubDate>
+        length="229824"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-22T08-06-03-469Z</guid>
+      <pubDate>Tue, 22 Sep 2026 08:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
