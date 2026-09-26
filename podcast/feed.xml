@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive this Saturday, September 2...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive this Saturday, September 26th, 2026, here in sunny Sydney! It’s still a beautiful 24 degrees outside, feeling just delightful with mainly clear skies, perfect for winding down this evening. After a cracking day reaching up to 29 degrees, let's transition into a relaxed evening, perhaps with a good meal or some quality time with loved ones, leaving the day's hustle behind. As you cruise home, remember what author H. Jackson Brown Jr. said: "Live so that when your children think of fairness, caring, and integrity, they think of you." Have a safe and serene commute, Naresh, enjoy your evening, get some great rest, and we'll catch you back here tomorrow!</description>
+      <title>Good morning, Naresh, and happy Sunday, September 27th, 2026! It's a rather over...</title>
+      <description>Good morning, Naresh, and happy Sunday, September 27th, 2026! It's a rather overcast start out there right now at 16°C, but let's still infuse this morning with some brilliant energy. As the day unfolds, expect a cool 15°C to 17°C, and with a 100% chance of rain, definitely grab that umbrella before you head out! Remember, even on the cloudiest days, you have the power to create your own sunshine, so make today an intentional masterpiece. Have a truly wonderful day, Naresh, let's make every moment count!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-26T08-10-31-020Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-26T17-27-39-795Z"
         type="audio/mpeg" 
-        length="286272"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-26T08-10-31-020Z</guid>
-      <pubDate>Sat, 26 Sep 2026 08:10:31 GMT</pubDate>
+        length="237312"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-26T17-27-39-795Z</guid>
+      <pubDate>Sat, 26 Sep 2026 17:27:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
