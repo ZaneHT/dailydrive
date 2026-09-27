@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive on this rather damp Sunday...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive on this rather damp Sunday, September 27th, 2026. It's currently a cool 15 degrees Celsius with a light drizzle falling, definitely feeling like 13 degrees out there, so I hope you're cozy as you wind down your weekend. With a 100% chance of rain continuing into the evening, remember to grab that umbrella before heading out, and perhaps enjoy a warm cuppa as you settle in. As you navigate these final Sunday hours, remember: "The best way to predict the future is to create it." Have a wonderful, relaxing evening, drive safely if you're out and about, and we'll catch you tomorrow to kick off a new week!</description>
+      <title>Good morning, Sydney! It’s Monday, September 28th, 2026, and it's a cool 15°C wi...</title>
+      <description>Good morning, Sydney! It’s Monday, September 28th, 2026, and it's a cool 15°C with overcast skies to start our week. With a high chance of rain today, reaching up to 94%, remember to grab your umbrella before you head out, and let's embrace this fresh start with open hearts and a resilient spirit. Here's a thought for today: "The best way to predict the future is to create it." So, let’s make today count and create something amazing – have a truly wonderful day, Naresh!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-27T08-46-45-408Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-27T17-58-33-854Z"
         type="audio/mpeg" 
-        length="261120"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-27T08-46-45-408Z</guid>
-      <pubDate>Sun, 27 Sep 2026 08:46:45 GMT</pubDate>
+        length="199680"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-27T17-58-33-854Z</guid>
+      <pubDate>Sun, 27 Sep 2026 17:58:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
