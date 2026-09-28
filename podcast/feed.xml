@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive this Monday, September 28t...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive this Monday, September 28th, 2026! As you wind down, it's a clear 15 degrees Celsius out there, but with a 96% chance of rain, you'll definitely want that umbrella handy for your commute home tonight. After a productive day, let's transition into a relaxing evening, maybe with a good book or some quality time with loved ones. Remember, as the saying goes, "The journey of a thousand miles begins with a single step," so take that first step towards a peaceful night. Stay safe on those roads, enjoy a wonderful evening recharging, and we'll catch you back here tomorrow.</description>
+      <title>Good morning, Naresh, and welcome to your Daily Drive for Tuesday, September 29t...</title>
+      <description>Good morning, Naresh, and welcome to your Daily Drive for Tuesday, September 29th, 2026! It's a brisk 11 degrees out there this morning, feeling like 10, with mainly clear skies to kickstart your day. With a high of 19 degrees and a dry 2% chance of rain, it's shaping up to be a simply glorious spring day here in Sydney, perfect for making those outdoor plans. Remember, "The best way to predict the future is to create it." So let's make today count – have a truly fantastic day, Naresh!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-28T09-11-02-222Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-28T20-18-23-608Z"
         type="audio/mpeg" 
-        length="250368"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-28T09-11-02-222Z</guid>
-      <pubDate>Mon, 28 Sep 2026 09:11:02 GMT</pubDate>
+        length="206976"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-28T20-18-23-608Z</guid>
+      <pubDate>Mon, 28 Sep 2026 20:18:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
