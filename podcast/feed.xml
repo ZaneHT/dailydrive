@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and welcome to your Daily Drive for Tuesday, September 29t...</title>
-      <description>Good morning, Naresh, and welcome to your Daily Drive for Tuesday, September 29th, 2026! It's a brisk 11 degrees out there this morning, feeling like 10, with mainly clear skies to kickstart your day. With a high of 19 degrees and a dry 2% chance of rain, it's shaping up to be a simply glorious spring day here in Sydney, perfect for making those outdoor plans. Remember, "The best way to predict the future is to create it." So let's make today count – have a truly fantastic day, Naresh!</description>
+      <title>Good evening, Naresh! It's Tuesday, September 29th, 2026, here in Sydney, and wi...</title>
+      <description>Good evening, Naresh! It's Tuesday, September 29th, 2026, here in Sydney, and with clear skies and a comfortable 16°C – though it feels a touch cooler at 14°C – it's shaping up to be a really pleasant evening. As your day winds down and you’re perhaps heading home, take a moment to appreciate the stillness after a busy day, knowing you've crushed it. And remember, much like a perfectly crafted playlist, a great day is often about the transitions, so let's make this evening one of smooth, relaxing tunes. Stay safe on those roads, enjoy a wonderful night recharging, and I'll catch you back here tomorrow for another Daily Drive!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-28T20-18-23-608Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-29T09-19-51-473Z"
         type="audio/mpeg" 
-        length="206976"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-28T20-18-23-608Z</guid>
-      <pubDate>Mon, 28 Sep 2026 20:18:23 GMT</pubDate>
+        length="258816"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-29T09-19-51-473Z</guid>
+      <pubDate>Tue, 29 Sep 2026 09:19:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
