@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Sydney! It's Wednesday, September 30th, 2026, and wow, it's a bris...</title>
-      <description>Good morning, Sydney! It's Wednesday, September 30th, 2026, and wow, it's a brisk 12°C out there with mainly clear skies to greet us. We're looking at a beautiful day ahead, with temperatures climbing to a lovely 23°C – perfect for whatever your day holds. Remember, every new day is a blank page; write a great story today! So, let's fill your Daily Drive with some fantastic tunes and make this Wednesday absolutely shine!</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive on this lovely Wednesday, ...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive on this lovely Wednesday, September 30th, 2026. It's a partly cloudy 19 degrees out there right now, feeling like a comfortable 18 as we ease into the evening. With no rain in sight and a gentle 18 km/h breeze, your drive home should be smooth sailing, perfect for unwinding after a busy day and looking forward to a great night ahead. Remember, "The only way to do great work is to love what you do," so let's carry that passion into a restful evening. Drive safely, enjoy your well-deserved break, and we'll catch you back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-29T18-58-31-717Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-30T09-10-30-739Z"
         type="audio/mpeg" 
-        length="191616"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-29T18-58-31-717Z</guid>
-      <pubDate>Tue, 29 Sep 2026 18:58:31 GMT</pubDate>
+        length="240000"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-09-30T09-10-30-739Z</guid>
+      <pubDate>Wed, 30 Sep 2026 09:10:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
