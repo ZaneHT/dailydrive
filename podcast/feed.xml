@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Thursday, October 1st, 2026! It's a brisk start ...</title>
-      <description>Good morning, Naresh, and happy Thursday, October 1st, 2026! It's a brisk start to your day here in Sydney at 14 degrees Celsius under mainly clear skies, perfect for easing into your Daily Drive. With a beautiful top of 29 degrees ahead and absolutely no rain in sight, today is all about embracing the sunshine and making the most of every moment. Remember, the early bird catches the worm, but the wise bird catches the sunrise – so let's soak up this new day and make it count! Have a truly fantastic one!</description>
+      <title>Good evening, Naresh, and welcome to your Daily Drive on this Thursday, October ...</title>
+      <description>Good evening, Naresh, and welcome to your Daily Drive on this Thursday, October 1st, 2026! It's a mild 21 degrees and overcast out there right now, feeling like a comfortable 20 as you wind down your day. Hopefully, it's been a productive one, and now it's time to shift gears, enjoy your commute home, and look forward to a relaxing evening ahead. Remember, the shortest distance between two points is often under construction – so take it easy and enjoy the journey! Wishing you a wonderful night, a safe trip home, and we'll catch you back here tomorrow, fully recharged.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-09-30T18-41-02-637Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-01T09-38-05-914Z"
         type="audio/mpeg" 
-        length="212736"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-09-30T18-41-02-637Z</guid>
-      <pubDate>Wed, 30 Sep 2026 18:41:02 GMT</pubDate>
+        length="228864"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-01T09-38-05-914Z</guid>
+      <pubDate>Thu, 01 Oct 2026 09:38:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
