@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Friday, October 2nd, 2026, from a mainly clear S...</title>
-      <description>Good morning, Naresh, and happy Friday, October 2nd, 2026, from a mainly clear Sydney, where it's a brisk 16 degrees Celsius right now! As we head into the last working day of the week, remember that every new day offers a fresh start, so let's set a positive tone and embrace the opportunities ahead. Today's forecast suggests we'll reach a pleasant 22 degrees, but with a 77% chance of rain, it’s definitely worth grabbing that umbrella before you head out. Let's make this Friday count and have a truly fantastic day!</description>
+      <title>Good evening, Naresh! It's Friday, October 2nd, 2026 here in Sydney, and as we w...</title>
+      <description>Good evening, Naresh! It's Friday, October 2nd, 2026 here in Sydney, and as we wind down, it's a mild 20°C under an overcast sky, feeling a touch warmer at 22°C. After a week of hard work, it's time to ease into a fantastic evening, so let's get you home safely and ready for some well-deserved relaxation. Did you know that Friday is named after the Norse goddess Frigg, associated with love, marriage, and fertility? So here's to a lovely evening ahead, a safe commute home, and a wonderful night's rest – we'll catch you back here tomorrow for more Daily Drive!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-01T19-07-17-802Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-02T09-12-18-841Z"
         type="audio/mpeg" 
-        length="206592"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-10-01T19-07-17-802Z</guid>
-      <pubDate>Thu, 01 Oct 2026 19:07:17 GMT</pubDate>
+        length="241152"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-02T09-12-18-841Z</guid>
+      <pubDate>Fri, 02 Oct 2026 09:12:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
