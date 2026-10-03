@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive this Saturday, October 3rd...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive this Saturday, October 3rd, 2026, here in Sydney! The drizzle is definitely with us this afternoon, keeping things a cool 19°C – so if you're heading out, that umbrella is a must with a 100% chance of rain for your evening commute. As the weekend truly settles in, let's wind down from a busy day and look forward to a relaxing evening ahead, perhaps with a good book or some quality time with loved ones. Remember, as the philosopher Lao Tzu once said, "A journey of a thousand miles begins with a single step," so take that first step towards a wonderful evening. Drive safe, recharge well, and we'll catch up tomorrow!</description>
+      <title>Good morning, Naresh, and happy Sunday, October 4th, 2026! It's a mild 15 degree...</title>
+      <description>Good morning, Naresh, and happy Sunday, October 4th, 2026! It's a mild 15 degrees right now with overcast skies, but don't let that fool you – we're heading for a beautiful 23 degrees later today. As we step into this brand new week, remember that every sunrise offers a fresh start, a chance to chase those dreams and make them reality. So, let your playlist inspire you, embrace the good vibes, and make today absolutely amazing!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-03T08-44-41-064Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-03T17-41-01-913Z"
         type="audio/mpeg" 
-        length="269568"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-10-03T08-44-41-064Z</guid>
-      <pubDate>Sat, 03 Oct 2026 08:44:41 GMT</pubDate>
+        length="182016"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-03T17-41-01-913Z</guid>
+      <pubDate>Sat, 03 Oct 2026 17:41:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
