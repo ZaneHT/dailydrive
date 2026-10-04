@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh, and welcome to your Daily Drive this Sunday, October 4th, ...</title>
-      <description>Good evening, Naresh, and welcome to your Daily Drive this Sunday, October 4th, 2026, here in Sydney. It’s a lovely, clear 18°C as we wind down the weekend, and while we've had a beautiful day, there's a 53% chance of some evening showers, so best to grab that umbrella if you're heading out. As you settle in, remember that even a small step forward is progress, so celebrate the little victories and let them propel you into a restful evening. Have a fantastic night, enjoy your playlist, and we'll catch you back here tomorrow for a fresh start!</description>
+      <title>Good morning, Naresh! It's Monday, October 5th, 2026 here in Sydney, and we're k...</title>
+      <description>Good morning, Naresh! It's Monday, October 5th, 2026 here in Sydney, and we're kicking off the week with a cool 14 degrees under an overcast sky, so you definitely feel that slight chill. Looking ahead, we're expecting a pleasant jump to 21 degrees, but with a 75% chance of rain, it's absolutely worth grabbing that umbrella before you head out, and remember that today is just another ordinary Monday here in NSW, so no public holidays to disrupt our flow! As you cruise into your day, remember this: the early morning hours hold a unique quiet power, a chance to set your intentions before the world truly wakes. So, make it a fantastic day, make it count, and let the good vibes roll!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-04T09-10-21-118Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-04T17-54-26-941Z"
         type="audio/mpeg" 
-        length="219840"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-10-04T09-10-21-118Z</guid>
-      <pubDate>Sun, 04 Oct 2026 09:10:21 GMT</pubDate>
+        length="277632"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-04T17-54-26-941Z</guid>
+      <pubDate>Sun, 04 Oct 2026 17:54:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
