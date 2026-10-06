@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Tuesday, October 6th, 2026, here in beautiful Sy...</title>
-      <description>Good morning, Naresh, and happy Tuesday, October 6th, 2026, here in beautiful Sydney! It’s a crisp 17 degrees out there right now under clear skies, feeling closer to a balmy 19, and with today's temperatures set to climb all the way to 26 degrees, it’s going to be a gorgeous day to make some magic happen – just remember to grab that umbrella before you head out, as there’s an 86% chance of a shower later. As you kick off your day, remember what Lao Tzu said: "The journey of a thousand miles begins with a single step." So, take that step with purpose and make today count – have an absolutely brilliant one!</description>
+      <title>Good evening, Naresh! It's Tuesday, October 6th, 2026, here in Sydney, and with ...</title>
+      <description>Good evening, Naresh! It's Tuesday, October 6th, 2026, here in Sydney, and with clear skies and a comfortable 20°C, it feels like a perfect evening to wind down. As your day draws to a close, let's look forward to a relaxing evening, maybe a good meal, and definitely some well-deserved rest. And speaking of rest, did you know the average adult human spends about a third of their life asleep? So embrace that downtime tonight! Have a wonderful evening, drive safe, and we'll catch you again tomorrow on the Daily Drive.</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-05T21-22-07-018Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-06T09-38-50-618Z"
         type="audio/mpeg" 
-        length="246720"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-10-05T21-22-07-018Z</guid>
-      <pubDate>Mon, 05 Oct 2026 21:22:07 GMT</pubDate>
+        length="215424"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-06T09-38-50-618Z</guid>
+      <pubDate>Tue, 06 Oct 2026 09:38:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
