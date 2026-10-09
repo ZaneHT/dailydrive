@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh! It's Friday, October 9th, 2026, here in Sydney, and what a...</title>
-      <description>Good morning, Naresh! It's Friday, October 9th, 2026, here in Sydney, and what a beautiful start to the day we have with clear skies and a crisp 10°C, feeling like a refreshing 9°C out there right now. Today's looking absolutely gorgeous, warming up nicely to a comfortable 21°C with zero chance of rain, so you can leave that umbrella at home and soak up every bit of sunshine as we roll into the weekend. Remember, Naresh, today is a fresh canvas – what masterpiece will you create with it? Let's make this Friday count and power through with that incredible energy of yours!</description>
+      <title>Good evening, Naresh! It's Friday, October 9th, 2026, here in Sydney, and what a...</title>
+      <description>Good evening, Naresh! It's Friday, October 9th, 2026, here in Sydney, and what a beautiful evening it is, currently a comfortable 18°C under clear skies with a gentle 18 km/h breeze – perfect for unwinding after a busy week. As you wrap things up and head home, just remember to take it easy on the roads; let's finish this week strong and safely. Here's a thought for your evening: "The best way to predict the future is to create it." Have a wonderful evening, enjoy your playlist, recharge completely, and we'll catch you back here for Daily Drive tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-08T19-33-24-230Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-09T09-50-46-109Z"
         type="audio/mpeg" 
-        length="239808"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-10-08T19-33-24-230Z</guid>
-      <pubDate>Thu, 08 Oct 2026 19:33:24 GMT</pubDate>
+        length="230208"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-09T09-50-46-109Z</guid>
+      <pubDate>Fri, 09 Oct 2026 09:50:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
