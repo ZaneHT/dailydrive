@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good morning, Naresh, and happy Sunday, October 11th, 2026! It's a beautifully c...</title>
-      <description>Good morning, Naresh, and happy Sunday, October 11th, 2026! It's a beautifully clear start to the day here in Sydney, currently sitting at a comfortable 17 degrees Celsius, feeling even warmer at 18. With a top of 23 expected and barely a whisper of rain, it's going to be a perfect day to soak up some sunshine and embrace the weekend vibes. Remember, even the smallest step forward is still a step, so let's make today count and fill it with moments that uplift and inspire. Have an absolutely fantastic day!</description>
+      <title>Good evening, Naresh, and a very warm welcome to your Daily Drive on this beauti...</title>
+      <description>Good evening, Naresh, and a very warm welcome to your Daily Drive on this beautiful Sunday, October 11th, 2026. It's a lovely 20°C out there with clear skies, making for a truly pleasant end to the weekend. As the day winds down, I hope you’ve had a fantastic time and are now ready to relax and recharge for the week ahead. Did you know that the word "weekend" only truly entered common usage in the late 19th century, thanks to the rise of the two-day break? Here's to a wonderful evening of rest and rejuvenation; drive safe, enjoy every moment, and we’ll catch you right back here tomorrow!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-10T18-06-30-315Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-11T09-31-44-533Z"
         type="audio/mpeg" 
-        length="212160"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-10-10T18-06-30-315Z</guid>
-      <pubDate>Sat, 10 Oct 2026 18:06:30 GMT</pubDate>
+        length="241728"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-11T09-31-44-533Z</guid>
+      <pubDate>Sun, 11 Oct 2026 09:31:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
