@@ -14,14 +14,14 @@
     <itunes:category text="Daily News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Good evening, Naresh! It's Monday, October 12th, 2026, here in Sydney, and at a ...</title>
-      <description>Good evening, Naresh! It's Monday, October 12th, 2026, here in Sydney, and at a balmy 27°C under overcast skies, it still feels like a beautiful evening to wind down. As your day draws to a close, I hope it's been productive and that you're looking forward to a relaxing evening ahead, maybe catching up on something you love, especially with an 82% chance of rain, you might want to grab that umbrella for any last-minute dashes! Remember, every evening is a chance to reset, so embrace the calm before tomorrow's adventures. Stay safe on those roads, enjoy your evening, and I'll catch you back here tomorrow for another Daily Drive.</description>
+      <title>Good morning, Naresh, and happy Tuesday, October 13th, 2026! It's a lovely 19 de...</title>
+      <description>Good morning, Naresh, and happy Tuesday, October 13th, 2026! It's a lovely 19 degrees Celsius out there right now, feeling a touch warmer at 20, with just a light drizzle to start our Sydney morning, so definitely grab that umbrella as there's a 96% chance of rain throughout the day. Remember, every new day is a fresh opportunity to learn, grow, and achieve something wonderful, so let's make today count. Did you know the iconic Sydney Harbour Bridge took 8 years to build, officially opening in 1932? Here's to making your day as impactful and enduring as that magnificent structure – have a truly fantastic one!</description>
       <enclosure 
-        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-12T10-02-08-743Z"
+        url="https://zaneht.github.io/dailydrive/podcast/intro.mp3?v=daily-drive-intro-2026-10-12T21-54-43-024Z"
         type="audio/mpeg" 
-        length="257088"/>
-      <guid isPermaLink="false">daily-drive-intro-2026-10-12T10-02-08-743Z</guid>
-      <pubDate>Mon, 12 Oct 2026 10:02:08 GMT</pubDate>
+        length="254784"/>
+      <guid isPermaLink="false">daily-drive-intro-2026-10-12T21-54-43-024Z</guid>
+      <pubDate>Mon, 12 Oct 2026 21:54:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
